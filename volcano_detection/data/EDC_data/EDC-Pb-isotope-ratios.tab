@@ -1,0 +1,103 @@
+/* DATA DESCRIPTION:
+Citation:	Vallelonga, Paul T; Gabrielli, Paolo; Balliana, E; Wegner, Anna; Delmonte, Barbara; Turetta, Clara; Burton, G; Vanhaecke, Frank; Rosman, K J R; Hong, Sungmin; Boutron, Claude F; Cescon, Paolo; Barbante, Carlo (2011): Pb and Ba concentrations and Pb isotope ratios in EPICA Dome C ice 2-217 ky BP [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.767617, 
+	Supplement to: Vallelonga, PT et al. (2010): Lead isotopic compositions in the EPICA Dome C ice core and southern hemisphere potential source areas. Quaternary Science Reviews, 29(1-2), 247-255, https://doi.org/10.1016/j.quascirev.2009.06.019
+Abstract:	A record of Pb isotopic compositions and Pb and Ba concentrations are presented for the EPICA Dome C ice core covering the past 220 ky, indicating the characteristics of dust and volcanic Pb deposition in central East Antarctica. Lead isotopic compositions are also reported in a suite of soil and loess samples from the Southern Hemisphere (Australia, Southern Africa, Southern South America, New Zealand, Antarctica) in order to evaluate the provenance of dust present in Antarctic ice. Lead isotopic compositions in Dome C ice support the contention that Southern South America was an important source of dust in Antarctica during the last two glacial maxima, and furthermore suggest occasional dust contributions from local Antarctic sources. The isotopic signature of Pb in Antarctic ice is altered by the presence of volcanic Pb, inhibiting the evaluation of glacial–interglacial changes in dust sources and the evaluation of Australia as a source of dust to Antarctica. Consequently, an accurate evaluation of the predominant source(s) of Antarctic dust can only be obtained from glacial maxima, when dust-Pb concentrations were greatest. These data confirm that volcanic Pb is present throughout Antarctica and is emitted in a physical phase that is free from Ba, while dust Pb is transported within a matrix containing Ba and other crustal elements.
+Project(s):	European Project for Ice Coring in Antarctica (EPICA) (URI: https://en.wikipedia.org/wiki/European_Project_for_Ice_Coring_in_Antarctica)
+Funding:	Fifth Framework Programme (FP5), grant/award no. EVK2-CT-2000-00077: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/EVK2-CT-2000-00077)
+	Fourth Framework Programme (FP4), grant/award no. ENV4980702: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/ENV4980702)
+Coverage:	LATITUDE: -75.100000 * LONGITUDE: 123.350000
+	DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00
+	MINIMUM DEPTH, ice/snow: 86.6 m * MAXIMUM DEPTH, ice/snow: 2193.4 m
+Event(s):	EDC (EPICA Dome C) (URI: https://en.wikipedia.org/wiki/Dome_C) * LATITUDE: -75.100000 * LONGITUDE: 123.350000 * DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00 * ELEVATION: 3233.0 m * Recovery: 3300 m * LOCATION: Dome C, Antarctica * CAMPAIGN: Dome C * METHOD/DEVICE: Ice drill (ICEDRILL) * COMMENT: Drill site is 56 km from the site of a previous Dome C core that provided records extending into the last glacial period, and 560 km from the site of the Vostok cores. The completion of the Dome C core was delayed when the first drilling became stuck at 788 m in 1999 (EDC96).
+Comment:	Sample ages calculated according to EDC3 chronology (doi:10.1594/PANGAEA.671367) reported by Parrenin et al. (2007) doi:10.5194/cp-3-485-2007.
+	Delta Deuterium values (doi:10.1594/PANGAEA.683655) by Jouzel et al. (2007) doi:10.1126/science.1141038.
+	Funding Sources: Australian Research Council (DP0345625), Antarctic Science Advisory Committee, Glaciology Section (No. 1092,2334), European Union Marie Curie IIF Fellowship (MIF1-CT-2006-039529, TDICOSO).
+Parameter(s):	DEPTH, ice/snow [m] (Depth ice/snow) * GEOCODE
+	AGE [ka BP] (Age) * GEOCODE
+	Lead-206/Lead-207 ratio (206Pb/207Pb) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+	Lead-206/Lead-204 ratio, error [±] (206Pb/204Pb e) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk) * COMMENT: 95% confidence interval
+	Lead-208/Lead-207 ratio (208Pb/207Pb) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+	Lead-208/Lead-207, error [±] (208Pb/207Pb e) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk) * COMMENT: 95% confidence interval
+	Lead-206/Lead-204 ratio (206Pb/204Pb) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+	Lead-206/Lead-204 ratio, error [±] (206Pb/204Pb e) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk) * COMMENT: 95% confidence interval
+	Lead [ng/kg] (Pb) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+	Barium [ng/kg] (Ba) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+	Lead/Barium ratio (Pb/Ba) * PI: Vallelonga, Paul T (https://orcid.org/0000-0003-1055-7235, ptravis@nbi.ku.dk)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	666 data points
+*/
+Depth ice/snow [m]	Age [ka BP]	206Pb/207Pb	206Pb/204Pb e [±] (95% confidence interval)	208Pb/207Pb	208Pb/207Pb e [±] (95% confidence interval)	206Pb/204Pb	206Pb/204Pb e [±] (95% confidence interval)	Pb [ng/kg]	Ba [ng/kg]	Pb/Ba
+86.6	2.01	1.197	0.010	2.466	0.014	18.1	0.8	0.3	6.9	0.04
+86.9	2.02	1.184	0.014	2.459	0.014	18.7	0.5	0.2	5.6	0.03
+229.1	6.94	1.197	0.011	2.479	0.012	18.8	0.3	0.2	7.3	0.03
+229.4	6.95	1.195	0.022	2.467	0.032	19.0	1.7	0.2	6.3	0.03
+316.0	10.27	1.222	0.021	2.495	0.040	19.1	0.9	0.2	7.6	0.02
+316.3	10.28	1.194	0.024	2.460	0.026	19.0	1.7	0.2	6.7	0.03
+379.2	12.81	1.220	0.009	2.486	0.011	19.7	0.8	0.7	13.2	0.05
+379.5	12.82	1.228	0.014	2.501	0.024	19.4	1.1	0.3	5.4	0.05
+405.6	14.20	1.204	0.006	2.476	0.014	18.7	0.2	0.7	17.3	0.04
+405.9	14.22	1.217	0.009	2.481	0.011	19.3	0.5	0.8	16.5	0.05
+419.4	14.91	1.203	0.009	2.485	0.015	18.8	0.4	0.3	13.6	0.03
+432.6	15.61	1.197	0.007	2.487	0.010	18.9	0.3	0.4	13.2	0.03
+432.9	15.63	1.200	0.008	2.489	0.011	18.7	0.6	0.4	15.9	0.03
+461.2	17.38	1.234	0.008	2.488	0.008	19.1	0.5	6.9	82.4	0.08
+461.5	17.40	1.226	0.002	2.488	0.009	19.0	0.4	6.1	107.0	0.06
+471.1	18.13	1.207	0.007	2.473	0.007	18.6	0.3	12.5	240.0	0.05
+471.4	18.16	1.257	0.004	2.507	0.008	19.8	0.6	29.5	176.0	0.17
+488.7	19.63	1.200	0.007	2.468	0.012	18.5	0.5	13.9	316.0	0.04
+489.0	19.66	1.193	0.004	2.478	0.008	18.7	0.2	10.8	352.0	0.03
+515.6	21.94	1.199	0.014	2.465	0.019	18.5	0.3	14.3	467.0	0.03
+515.9	21.97	1.198	0.006	2.478	0.008	18.5	0.2	13.1	400.2	0.03
+573.9	27.01	1.200	0.005	2.459	0.008	18.6	0.5	10.9	274.9	0.04
+574.2	27.03	1.207	0.008	2.465	0.014	17.7	0.4	16.1	362.3	0.04
+598.1	29.09	1.206	0.005	2.486	0.009	19.0	0.6	9.7	266.7	0.04
+598.4	29.12	1.200	0.005	2.475	0.007	18.7	0.2	8.2	230.8	0.04
+653.1	33.66	1.196	0.006	2.464	0.010	18.4	0.5	4.2	119.5	0.04
+653.4	33.68	1.202	0.007	2.470	0.011	18.8	0.3	4.0	120.6	0.03
+653.7	33.71	1.202	0.006	2.444	0.017	17.5	0.7	5.2	132.8	0.04
+654.0	33.73	1.205	0.003	2.477	0.013	18.7	0.3	8.2	185.4	0.04
+680.9	35.97	1.208	0.003	2.479	0.005	18.8	0.2	5.7	118.2	0.05
+708.7	38.14	1.245	0.005	2.492	0.015	19.2	0.1	3.1	39.1	0.08
+709.0	38.16	1.243	0.004	2.503	0.006	19.5	0.2	1.8	29.9	0.06
+735.6	40.37	1.196	0.007	2.461	0.007	18.6	0.4	4.2	136.2	0.03
+735.9	40.40	1.198	0.005	2.465	0.009	18.6	0.7	4.4	151.0	0.03
+763.1	42.80	1.200	0.004	2.464	0.008	18.8	0.5	2.1	71.3	0.03
+763.4	42.82	1.196	0.008	2.470	0.010	18.9	0.4	2.9	96.2	0.03
+818.1	47.17	1.206	0.004	2.467	0.008	18.6	0.3	5.4	126.5	0.04
+818.4	47.20	1.201	0.003	2.463	0.009	18.5	0.5	5.0	151.6	0.03
+900.6	53.83	1.224	0.004	2.482	0.007	19.3	0.1	17.4	436.1	0.04
+900.9	53.85	1.232	0.004	2.485	0.007	19.0	0.4	9.2	173.8	0.05
+983.1	60.65	1.209	0.003	2.490	0.006	19.0	0.2	7.2	176.8	0.04
+983.4	60.67	1.214	0.006	2.484	0.004	18.3	0.6	9.8	225.4	0.04
+1010.6	63.43	1.208	0.004	2.481	0.009	18.9	0.2	7.5	200.9	0.04
+1010.9	63.45	1.196	0.003	2.464	0.006	18.5	0.4	13.9	359.8	0.04
+1093.1	71.64	1.231	0.005	2.496	0.008	19.2	0.3	1.1	16.0	0.07
+1093.4	71.66	1.238	0.004	2.487	0.012	19.1	0.4	3.2	29.5	0.11
+1148.1	76.57	1.200	0.004	2.473	0.008	18.5	0.4	1.5	43.6	0.04
+1148.4	76.60	1.239	0.004	2.507	0.007	18.8	0.3	4.0	47.0	0.08
+1203.1	81.05	1.254	0.006	2.507	0.009	19.0	0.2	3.4	21.5	0.16
+1203.4	81.07	1.241	0.009	2.490	0.011	19.4	0.3	1.4	16.4	0.09
+1258.1	86.00	1.196	0.008	2.474	0.006	18.3	0.4	2.0	51.1	0.04
+1258.4	86.03	1.222	0.006	2.477	0.007	19.0	0.5	3.5	60.5	0.06
+1313.1	91.43	1.217	0.005	2.478	0.008	18.9	0.3	0.8	14.1	0.06
+1313.4	91.46	1.204	0.005	2.461	0.010	18.1	0.3	0.6	16.2	0.04
+1423.1	102.25	1.230	0.008	2.472	0.006	18.9	0.4	1.5	30.2	0.05
+1423.4	102.28	1.225	0.003	2.477	0.010	18.9	0.5	3.2	42.8	0.07
+1533.1	114.12	1.229	0.010	2.487	0.009	19.3	0.3	0.4	11.2	0.03
+1533.4	114.14	1.211	0.010	2.497	0.011	19.1	0.3	0.3	7.7	0.04
+1643.1	122.81	1.230	0.008	2.500	0.009	19.5	0.3	0.5	11.8	0.04
+1643.4	122.83	1.208	0.010	2.475	0.018	19.2	0.7	0.5	14.2	0.04
+1753.1	131.85	1.251	0.007	2.502	0.006	18.8	0.2	2.9	22.3	0.13
+1753.4	131.89	1.237	0.006	2.488	0.010	18.6	1.2	2.6	30.4	0.09
+1863.1	152.18	1.204	0.003	2.468	0.006	18.6	0.2	18.3	370.5	0.05
+1863.4	152.24	1.193	0.003	2.459	0.009	18.6	1.0	18.9	447.3	0.04
+1973.1	174.42	1.200	0.004	2.470	0.009	18.7	0.3	7.3	191.7	0.04
+1973.4	174.49	1.192	0.005	2.462	0.009	18.6	0.2	9.7	150.4	0.06
+2050.1	191.28	1.212	0.004	2.477	0.019	18.2	0.6	2.1	59.1	0.04
+2050.4	191.34	1.208	0.004	2.477	0.006	18.9	0.4	1.5	46.8	0.03
+2094.1	198.89	1.220	0.018	2.483	0.028	19.0	0.7	0.2	6.7	0.03
+2094.4	198.94	1.214	0.017	2.484	0.017	18.8	0.6	0.2	8.0	0.02
+2138.1	207.17	1.211	0.008	2.487	0.010	19.0	0.2	0.3	8.7	0.04
+2138.4	207.22	1.224	0.008	2.479	0.008	19.3	0.7	0.5	8.8	0.06
+2193.1	216.99	1.214	0.005	2.472	0.007	18.6	0.4	1.3	32.6	0.04
+2193.4	217.05	1.214	0.009	2.476	0.006	19.4	1.0	2.0	32.3	0.06

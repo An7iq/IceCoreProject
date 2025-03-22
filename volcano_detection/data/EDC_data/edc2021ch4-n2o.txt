@@ -1,0 +1,261 @@
+# EPICA DOME C Penultimate Deglaciation CH4 and N2O Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/33673
+#       Description: 
+# Online_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc2021ch4-n2o.txt
+#       Description:
+#
+# Original_Source_URL: 
+#       Description:
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Data_Type: Ice cores
+#
+# Dataset_DOI: 
+#
+# Parameter_Keywords: atmospheric gas, reconstruction
+#--------------------
+# Contribution_Date
+#	Date:  2021-07-28
+#--------------------
+# File_Last_Modified_Date
+#	Date:  2021-07-28
+#--------------------
+# Title
+#	Study_Name: EPICA DOME C Penultimate Deglaciation CH4 and N2O Data
+#--------------------
+# Investigators
+#	Investigators: Schmidely, L.; Nehrbass-Ahles, C.; Schmitt, J.; Han, J.; Lucas Silva, Jinwha Shin, Fortunat Joos, Jerome Chappellaz, Hubertus Fischer, and Thomas F. Stocker
+#--------------------
+# Description_Notes_and_Keywords
+#	Description: CH4 and N2O data from the EPICA DOME C ice core during the penultimate deglaciation (145-125 ka).
+#--------------------
+# Publication 
+# Authors: Loic Schmidely, Christoph Nehrbass-Ahles, Jochen Schmitt, Juhyeong Han, Lucas Silva, Jinwha Shin, Fortunat Joos, Jerome Chappellaz, Hubertus Fischer, and Thomas F. Stocker
+# Published_Date_or_Year: 2021-08-03    
+# Published_Title: CH4 and N2O fluctuations during the penultimate deglaciation
+# Journal_Name: Climate of the Past 
+# Volume: 17
+# Edition: 
+# Issue: 4
+# Pages: 1627-1643
+# Report_Number: 
+# DOI: 10.5194/cp-17-1627-2021
+# Online_Resource: https://cp.copernicus.org/articles/17/1627/2021/
+# Full_Citation: 
+# Abstract: Deglaciations are characterized by the largest natural changes in methane (CH4) and nitrous oxide (N2O) concentrations of the past 800 000 years. Reconstructions of millennial- to centennial-scale variability within these periods are mostly restricted to the last deglaciation. In this study, we present composite records of CH4 and N2O concentrations from the EPICA Dome C ice core covering the penultimate deglaciation at temporal resolutions of ~100 years. Our data permit the identification of centennial-scale fluctuations during the transition from glacial to interglacial levels. At ~134 000 and ~129 000 years before present (hereafter ka), both CH4 and N2O increased on centennial timescales. These abrupt rises are similar to the fluctuations associated with the Dansgaard-Oeschger events identified in the last glacial period. In addition, gradually rising N2O levels at ~130 ka resemble a pattern of increasing N2O concentrations on millennial timescales characterizing the later part of Heinrich stadials. Overall, the events in CH4 and N2O during the penultimate deglaciation exhibit modes of variability that are also found during the last deglaciation and glacial cycle, suggesting that the processes leading to changes in emission during the transitions were similar but their timing differed.
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant: 200020_172745, 200020_200492, 200020_172506, 200020_200511
+#------------------
+# Site_Information 
+#	Site_Name: EPICA Dome C
+#	Location: Antarctica
+#	Northernmost_Latitude: -75.1 
+# 	Southernmost_Latitude: -75.1
+# 	Easternmost_Longitude: 123.3 
+# 	Westernmost_Longitude: 123.3 
+# 	Elevation:  3233 
+#------------------
+# Data_Collection   
+#	Collection_Name: EDC2021CH4-N2O 
+#	Earliest_Year: 144989
+#	Most_Recent_Year: 125674
+#	Time_Unit:  year BP
+#	Core_Length: 3260
+#	Notes: 
+#------------------
+# Chronology_Information
+#	Chronology: Antarctic Ice Core Chronology AICC2012 
+# 	
+#----------------	
+# Variables 
+#
+#   For Additional Help in Describing Variables see:
+#     Guide for Naming Variables Using the PaST Thesaurus- http://www1.ncdc.noaa.gov/pub/data/paleo/templates/Variable_naming_guide.pdf
+#     Thesaurus Terms and Definitions- https://www.ncdc.noaa.gov/paleo-search/cvterms
+#
+# variables format:  shortname	what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information) 
+#
+## depth	depth,,,meter,,ice cores;climate forcing, ,,N,average depth of 4-11 cm long (vertical axis of the core) sample
+## gas_age	gas age,,,calendar year before present,,ice cores;climate forcing,,,N,interpolated from the Antarctic Ice Core Chronology AICC2012
+## CH4	methane,bulk atmosphere,,parts per billion,,ice cores;climate forcing,,gas chromatography,N,
+## CH4_uncertainty	methane,bulk atmosphere,one standard deviation,parts per billion,ice cores;climate forcing,,,N
+## CH4_corr	methane,bulk atmosphere,,parts per billion,,ice cores;climate forcing,corrected,gas chromatography,N,corrected for an offset with respect to published EDC dataset
+## CH4_corr_uncertainty	methane,bulk atmosphere,one standard deviation,parts per billion,ice cores;climate forcing,corrected,,N
+## N2O	nitrous oxide,bulk atmosphere,,parts per billion,,ice cores;climate forcing,,gas chromatography,N,
+## N2O_uncertainty	nitrous oxide,bulk atmosphere,one standard deviation,parts per billion,ice cores;climate forcing,,,N
+## N2O_corr	nitrous oxide,bulk atmosphere,,parts per billion,,ice cores;climate forcing,corrected,gas chromatography,N,without samples contaminated by in situ production (NaN) and corrected for an offset with respect to published EDC dataset
+## N2O_corr_uncertainty	nitrous oxide,bulk atmosphere,one standard deviation,parts per billion,ice cores;climate forcing,corrected,,N
+## N2O_artefact	notes,,,,ice cores;climate forcing,,,N,highlights N2O values potentially contaminated by in situ production (0=uncontaminated and 1=contaminated) using an empirical criterion based on dust levels measured in adjacent samples
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:  NaN
+#
+depth	gas_age_AICC2012	CH4	CH4_uncertainty	CH4_corr	CH4_corr_uncertainty	N2O	N2O_uncertainty	N2O_corr	N2O_corr_uncertainty	N2O_artefact
+1678.73	125674	671	7	653	12	280	6	259	8	0
+1679.67	125757	663	7	646	12	279	6	258	8	0
+1682.48	126009	659	7	642	12	275	6	254	8	0
+1682.97	126054	680	7	662	12	278	6	256	8	0
+1684.78	126213	671	7	654	12	273	6	252	8	0
+1687.35	126443	672	7	654	12	284	6	263	8	0
+1689.73	126620	673	7	655	12	266	6	245	8	0
+1693.48	126869	648	7	630	12	273	6	252	8	0
+1695.67	126994	675	7	657	12	274	6	253	8	0
+1697.83	127164	685	7	668	12	272	6	251	8	0
+1698.98	127259	687	7	670	12	284	6	262	8	0
+1700.68	127389	686	7	668	12	285	6	264	8	0
+1701.26	127432	691	7	673	12	278	6	257	8	0
+1701.62	127458	685	7	668	12	289	6	267	8	0
+1706.73	127760	713	7	696	12	285	6	264	8	0
+1708.17	127860	733	7	715	12	279	6	258	8	0
+1708.77	127906	721	7	704	12	297	6	275	8	0
+1709.92	127987	714	7	696	12	282	6	260	8	0
+1711.68	128094	733	7	715	12	291	6	270	8	0
+1712.57	128141	723	7	705	12	299	6	277	8	0
+1714.27	128218	730	7	712	12	291	6	270	8	0
+1714.82	128248	722	7	705	12	294	6	273	8	0
+1715.37	128279	735	7	717	12	299	6	278	8	0
+1717.18	128388	731	7	714	12	290	6	269	8	0
+1717.57	128413	725	7	707	12	287	6	266	8	0
+1718.07	128452	739	7	721	12	295	6	274	8	0
+1719.38	128558	756	7	739	12	284	6	263	8	0
+1719.77	128586	750	7	732	12	281	6	260	8	0
+1720.54	128642	724	7	707	12	276	6	255	8	0
+1720.9	128668	703	7	685	12	285	6	264	8	0
+1721.13	128683	668	7	651	12	282	6	261	8	0
+1722.68	128779	582	7	564	12	271	6	249	8	0
+1725.37	128955	554	7	537	12	268	6	247	8	0
+1726.92	129072	549	7	531	12	255	6	234	8	0
+1728.18	129161	556	7	539	12	261	6	240	8	0
+1729.17	129223	561	7	543	12	271	6	250	8	0
+1731.32	129348	560	7	542	12	265	6	244	8	0
+1733.68	129538	537	7	520	12	261	6	239	8	0
+1734.57	129609	527	7	510	12	259	6	238	8	0
+1736.43	129742	545	7	528	12	265	6	243	8	0
+1737.37	129805	542	7	525	12	267	6	246	8	0
+1739.13	129920	536	7	519	12	258	6	237	8	0
+1739.19	129924	539	7	521	12	265	6	244	8	0
+1739.62	129954	522	7	504	12	248	6	227	8	0
+1740.17	129993	529	7	511	12	261	6	240	8	0
+1742.35	130148	534	7	516	12	259	6	238	8	0
+1745.67	130367	527	7	510	12	246	6	225	8	0
+1747.38	130504	527	7	509	12	244	6	223	8	0
+1748.42	130586	523	7	505	12	246	6	224	8	0
+1750.13	130727	529	7	511	12	236	6	215	8	0
+1751.17	130812	516	7	498	12	235	6	214	8	0
+1752.82	130952	515	7	497	12	235	6	213	8	0
+1756.18	131258	507	7	490	12	241	6	219	8	0
+1758.38	131500	504	7	487	12	235	6	214	8	0
+1759.42	131624	503	7	485	12	239	6	218	8	0
+1760.52	131759	485	7	467	12	226	6	205	8	0
+1761.62	131897	480	7	463	12	230	6	209	8	0
+1763.82	132172	481	7	463	12	241	6	220	8	0
+1764.98	132305	478	7	460	12	233	6	212	8	0
+1766.68	132494	475	7	457	12	232	6	211	8	0
+1768.77	132712	473	7	455	12	237	6	216	8	0
+1769.88	132850	485	7	468	12	247	6	226	8	0
+1771.61	133079	481	7	464	12	243	6	222	8	0
+1772.62	133213	478	7	460	12	243	6	222	8	0
+1772.79	133235	469	7	452	12	248	6	227	8	0
+1774.38	133440	467	7	450	12	260	6	239	8	0
+1775.32	133562	471	7	454	12	246	6	225	8	0
+1775.37	133569	489	7	471	12	255	6	234	8	0
+1776.01	133653	486	7	468	12	273	6	252	8	0
+1776.14	133671	486	7	469	12	255	6	234	8	0
+1776.3	133692	503	7	486	12	261	6	240	8	0
+1776.35	133699	503	7	485	12	256	6	235	8	0
+1777.68	133872	504	7	486	12	238	6	216	8	0
+1778.07	133922	464	7	447	12	222	6	201	8	0
+1778.67	133999	463	7	445	12	236	6	215	8	0
+1779.88	134156	454	7	437	12	223	6	202	8	0
+1780.27	134207	441	7	423	12	238	6	217	8	0
+1781.04	134341	450	7	433	12	225	6	204	8	0
+1781.63	134449	434	7	417	12	233	6	212	8	0
+1782.61	134625	439	7	422	12	237	6	NaN	8	1
+1783.6	134802	432	7	415	12	231	6	NaN	8	1
+1785.91	135135	422	7	404	12	232	6	NaN	8	1
+1786.46	135212	424	7	407	12	252	6	NaN	8	1
+1788	135481	420	7	403	12	263	6	NaN	8	1
+1788.66	135607	411	7	393	12	254	6	NaN	8	1
+1788.68	135612	411	7	393	12	257	6	NaN	8	1
+1789.68	135798	433	7	416	12	259	6	NaN	8	1
+1791.41	136110	437	7	419	12	249	6	NaN	8	1
+1791.92	136204	415	7	397	12	242	6	NaN	8	1
+1792.51	136353	406	7	389	12	239	6	NaN	8	1
+1792.95	136465	411	7	393	12	265	6	NaN	8	1
+1794.05	136724	426	7	409	12	244	6	NaN	8	1
+1794.57	136835	410	7	392	12	236	6	NaN	8	1
+1794.6	136842	418	7	400	12	239	6	NaN	8	1
+1795.18	136965	405	7	387	12	256	6	NaN	8	1
+1796.36	137179	399	7	382	12	244	6	NaN	8	1
+1796.91	137279	407	7	389	12	247	6	NaN	8	1
+1797.35	137363	409	7	392	12	246	6	NaN	8	1
+1797.68	137427	427	7	409	12	268	6	NaN	8	1
+1798.01	137489	416	7	398	12	270	6	NaN	8	1
+1799	137677	406	7	389	12	254	6	NaN	8	1
+1800.27	137919	399	7	381	12	242	6	NaN	8	1
+1800.77	138022	395	7	378	12	240	6	NaN	8	1
+1801.31	138131	411	7	393	12	257	6	NaN	8	1
+1801.82	138236	408	7	391	12	246	6	NaN	8	1
+1802.41	138363	409	7	391	12	231	6	NaN	8	1
+1802.92	138474	406	7	389	12	240	6	NaN	8	1
+1803.57	138614	418	7	401	12	273	6	NaN	8	1
+1804.05	138714	423	7	405	12	239	6	NaN	8	1
+1805.12	138936	409	7	391	12	248	6	NaN	8	1
+1805.76	139069	388	7	371	12	235	6	NaN	8	1
+1806.22	139164	392	7	374	12	248	6	NaN	8	1
+1807.32	139394	386	7	368	12	212	6	NaN	8	1
+1807.83	139501	372	7	355	12	217	6	NaN	8	1
+1808.16	139569	367	7	350	12	233	6	NaN	8	1
+1808.9	139759	361	7	344	12	230	6	NaN	8	1
+1810.11	140092	368	7	350	12	285	6	NaN	8	1
+1810.62	140201	364	7	346	12	235	6	NaN	8	1
+1811.17	140317	361	7	343	12	226	6	NaN	8	1
+1811.72	140433	361	7	343	12	208	6	NaN	8	1
+1813.33	140720	355	7	337	12	216	6	NaN	8	1
+1813.88	140843	349	7	331	12	219	6	NaN	8	1
+1814.43	140966	352	7	335	12	246	6	NaN	8	1
+1815.53	141211	362	7	345	12	233	6	NaN	8	1
+1816.16	141349	363	7	345	12	230	6	NaN	8	1
+1816.71	141470	372	7	355	12	234	6	NaN	8	1
+1817.28	141588	357	7	340	12	217	6	NaN	8	1
+1818.32	141802	376	7	359	12	272	6	NaN	8	1
+1818.91	141943	375	7	357	12	267	6	NaN	8	1
+1819.46	142076	360	7	342	12	304	6	NaN	8	1
+1820.01	142208	363	7	346	12	294	6	NaN	8	1
+1821.11	142462	361	7	344	12	233	6	NaN	8	1
+1821.82	142626	363	7	345	12	224	6	NaN	8	1
+1822.17	142707	377	7	359	12	246	6	NaN	8	1
+1822.72	142833	386	7	368	12	240	6	NaN	8	1
+1823.82	143075	364	7	347	12	233	6	NaN	8	1
+1824.37	143191	370	7	352	12	237	6	NaN	8	1
+1824.92	143308	376	7	359	12	244	6	NaN	8	1
+1825.63	143474	389	7	372	12	245	6	NaN	8	1
+1825.98	143556	385	7	368	12	247	6	NaN	8	1
+1826.36	143645	392	7	374	12	240	6	NaN	8	1
+1827.12	143819	406	7	389	12	235	6	NaN	8	1
+1827.71	143951	402	7	385	12	235	6	NaN	8	1
+1828.26	144076	397	7	380	12	243	6	NaN	8	1
+1829.32	144319	416	7	399	12	295	6	NaN	8	1
+1829.87	144444	420	7	403	12	325	6	NaN	8	1
+1830.46	144554	426	7	409	12	293	6	NaN	8	1
+1831.12	144680	440	7	423	12	243	6	NaN	8	1
+1832.11	144880	416	7	398	12	224	6	NaN	8	1
+1832.62	144989	382	7	365	12	232	6	NaN	8	1

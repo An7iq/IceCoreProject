@@ -1,0 +1,717 @@
+EPICA Dome C N2O Data to 650KYrBP
+----------------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------------
+NOTE: PLEASE CITE CONTRIBUTORS WHEN USING THIS DATA!!!!!
+
+NAME OF DATA SET: EPICA Dome C N2O Data to 650KYrBP
+LAST UPDATE: 11/2005 (Original Receipt by WDC Paleo)
+
+
+CONTRIBUTORS:
+Renato Spahni, Thomas F. Stocker, Gregor Hausammann, Kenji Kawamura, 
+Jacqueline Flückiger, Jakob Schwander. Climate and Environmental Physics, 
+Physics Institute, University of Bern, Switzerland
+
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2005-078
+
+SUGGESTED DATA CITATION: Spahni, R., et al., 2005.
+EPICA Dome C N2O data back to 650'000 years before the present
+IGBP PAGES/World Data Center for Paleoclimatology
+Data Contribution Series # 2005-078.
+NOAA/NGDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCES:
+650 to 20 kyr BP:
+Spahni, R., J. Chappellaz, T.F. Stocker, L. Loulergue, G. Hausammann, K. Kawamura, 
+J. Flückiger, J. Schwander, D. Raynaud, V. Masson-Delmotte, and J. Jouzel.  2005.
+Atmospheric methane and nitrous oxide of the late Pleistocene from Antarctic ice cores. 
+Science 310, 1317-1321, 2005.
+
+Holocene:
+Flückiger, J., E. Monnin, B. Stauffer, J. Schwander, T.F. Stocker, J. Chappellaz, 
+D. Raynaud, and J.-M. Barnola.  2002.
+High resolution Holocene N2O ice core record and its relationship with CH4 and CO2. 
+Glob. Biogeochem. Cycles, 16 (1), 1010, doi: 10.1029/2001GB001417, 2002.
+
+Last glacial-interglacial transition:
+Stauffer, B., J. Flückiger, E. Monnin, J. Schwander, J.-M. Barnola, and J. Chappellaz.  2002.
+Atmospheric CO2, CH4 and N2O records over the past 60,000 years based on the comparison 
+of different polar ice cores.  
+Ann. Glaciol., 35, 202-208.
+
+
+
+ABSTRACT:
+The European Project for Ice Coring in Antarctica Dome C ice core enables us to extend 
+existing records of atmospheric methane (CH4) and nitrous oxide (N2O) back to 650,000 
+years before the present. A combined record of CH4 measured along the Dome C and the 
+Vostok ice cores demonstrates, within the resolution of our measurements, that 
+preindustrial concentrations over Antarctica have not exceeded 773 +/- 15 ppbv 
+(parts per billion by volume) during the past 650,000 years. Before 420,000 years ago, 
+when interglacials were cooler, maximum CH4 concentrations were only about 600 ppbv, 
+similar to lower Holocene values. In contrast, the N2O record shows maximum concentrations 
+of 278 +/- 7 ppbv, slightly higher than early Holocene values.
+
+GEOGRAPHIC REGION: Antarctica
+PERIOD OF RECORD:  0 to 650 kyr BP
+
+
+DESCRIPTION: 
+N2O record from the EPICA Dome C 1996 and 1999 (EDC96 and EDC99) ice cores (Antarctica)
+covering the last 650,000 years. New measurements along the EPICA Dome C (75-06°S, 123-21°E,
+3233 m above sea level) ice cores were performed at 476 different depth levels for N2O concentration
+at the University of Bern. The mean N2O time resolution is 760 years for 
+MISs 2 to 7 and 1110 years for MISs 12 to 16.
+
+
+FUNDING SOURCES: This work is a contribution to the European Project for Ice Coring in Antarctica
+(EPICA), a joint ESF (European Science Foundation)/European Commission (EC) scientific program,
+funded by the EC and by national contributions from Belgium, Denmark, France, Germany, Italy, the
+Netherlands, Norway, Sweden, Switzerland, and the United Kingdom. We acknowledge long-term financial
+support by the Swiss National Science Foundation and the Swiss Federal Office of Energy for both
+science and logistic contributions to EPICA and to the University of Bern. Support was also provided by
+the French program PNEDC (INSU-CNRS), and the EC project EPICA-MIS.
+
+
+DATA:
+Column 1: EDC96 depth (m)
+Column 2: EDC99 depth (m)
+Column 3: gas age (years before 1950 on EDC1: Schwander et al., 2001)
+Column 4: gas age (years before 1950 on EDC2: EPICA Community Members, 2004)
+Column 5: N2O concentration (parts per billion by volumn, ppbv)
+Column 6: N2O artifacts concentration (parts per billion by volumn, ppbv)
+Column 7: 1-sigma uncertainty N2O concentration (parts per billion by volumn, ppbv)
+
+
+REMARKS: For EDC96 depth levels the corresponding EDC99 depth is calculated using the comparison
+by Eric Wolff (EWWO@bas.ac.uk) between equivalent signals in the Dielectric Profile (DEP) records.
+EDC2 time scale matches EDC1 at 784 m depth.  EDC1 is recommended for use above and EDC2
+below 784 m, until a new time scale is adopted.
+
+
+  EDC96       EDC99       EDC1     EDC2        N2O   N2O_art.     N2O_err.
+  depth       depth        age      age       conc.     conc.     conc.
+  99.53       99.34         62        0       284.5      NaN      3.6
+102.765     102.575        170      148       266.5      NaN      3.7
+104.965     104.775        245      212       268.7      NaN      3.5
+106.815     106.625        309      280         263      NaN      3.7
+ 110.02      109.83        419      400         268      NaN      4.1
+113.215     113.025        528      513       258.3      NaN      3.5
+115.415     115.225        602      572         267      NaN        5
+118.665     118.475        711      677         263      NaN      3.7
+ 121.06      120.87        791      769       265.7      NaN      3.5
+ 121.34      121.15        800      775       266.7      NaN        4
+124.765     124.575        915      874       261.7      NaN      3.5
+126.965     126.775        989      951       262.3      NaN        4
+129.365     129.175       1070     1029         261      NaN      3.4
+ 132.02      131.83       1159     1116       268.7      NaN      3.8
+137.965     137.775       1360     1305       260.7      NaN      3.5
+140.915     140.725       1463     1402         263      NaN      3.7
+ 143.57      143.38       1557     1489         266      NaN      3.4
+146.215     146.025       1651     1571       264.3      NaN      3.5
+148.965     148.775       1749     1673       268.7      NaN      3.5
+150.815     150.625       1816     1734         268      NaN      3.4
+ 154.02      153.83       1931     1855       267.3      NaN      3.5
+157.765     157.575       2067     1982       263.7      NaN      3.8
+159.965     159.775       2147     2069       268.3      NaN      3.5
+162.235     162.045       2231     2134       268.3      NaN      3.5
+165.465     165.275       2350     2262       267.7      NaN      3.8
+ 168.28      168.09       2453     2366         268      NaN      3.4
+ 170.59       170.4       2535     2453         271      NaN      3.8
+173.235     173.045       2628     2552         267      NaN      3.7
+176.465     176.275       2741     2657       263.3      NaN        4
+178.665     178.475       2818     2741         268      NaN      3.7
+ 180.97      180.78       2901     2804       268.3      NaN      3.5
+185.465     185.275       3064     2977         268      NaN      3.7
+187.465     187.275       3136     3040         264      NaN      3.7
+189.665     189.475       3217     3133       261.7      NaN      3.8
+ 192.52      192.33       3320     3230       262.3      NaN      3.5
+195.915     195.725       3440     3363         261      NaN      3.4
+198.465     198.275       3529     3450       261.3      NaN      3.5
+201.215     201.025       3626     3531       260.3      NaN      3.5
+203.655     203.465       3711     3626         261      NaN      3.4
+205.815     205.625       3788     3714       256.3      NaN      3.8
+209.465     209.275       3919     3842       263.7      NaN      3.5
+212.215     212.025       4017     3946       261.7      NaN      3.8
+ 214.52      214.33       4100     4036         262      NaN      3.7
+ 214.66      214.47       4105     4040       264.7      NaN      3.8
+ 216.17      215.98       4159     4097         271      NaN      3.4
+ 220.57      220.38       4318     4249       269.7      NaN      3.5
+ 220.71      220.52       4323     4257       268.7      NaN      3.5
+222.665     222.475       4393     4331       263.3      NaN        4
+225.415     225.225       4493     4447       268.7      NaN      3.5
+227.815     227.625       4582     4526         259      NaN      3.7
+ 231.59       231.4       4720     4666       267.8      NaN      3.8
+233.665     233.475       4795     4737       260.3      NaN      3.8
+236.415     236.225       4893     4843       255.3      NaN      3.5
+240.335     240.145       5036     4984       260.3      NaN      3.5
+244.665     244.475       5194     5170       260.7      NaN      3.5
+247.965     247.775       5316     5282       265.3      NaN      3.8
+250.785     250.595       5421     5387       260.7      NaN      3.5
+ 253.04      252.85       5504     5469         266      NaN      3.5
+256.215     256.025       5619     5580       255.7      NaN      3.8
+258.965     258.775       5719     5682       263.7      NaN      3.8
+ 260.17      259.98       5763     5711       263.7      NaN      3.5
+ 264.02      263.83       5904     5868       258.7      NaN      3.5
+268.315     268.125       6062     6026       256.3      NaN      3.5
+269.415     269.225       6102     6058       260.7      NaN      3.5
+271.815     271.625       6191     6163       254.3      NaN        4
+276.015     275.825       6347     6318       253.3      NaN      3.5
+278.215     278.025       6429     6397         259      NaN      3.4
+ 279.97      279.78       6493     6470       259.7      NaN      3.5
+283.785     283.595       6633     6622         259      NaN      3.7
+285.915     285.725       6711     6694       265.3      NaN        4
+288.185     287.995       6792     6783       255.7      NaN      3.5
+ 291.52      291.33       6913     6922       259.3      NaN      3.8
+294.365     294.175       7017     7045       257.3      NaN      3.8
+297.465     297.275       7131     7158       262.7      NaN      3.5
+299.665     299.475       7210     7258       263.7      NaN      3.5
+ 302.52      302.33       7311     7375         258      NaN      3.4
+ 305.27      305.08       7408     7489         262      NaN      3.7
+308.465     308.275       7519     7600         258      NaN      3.7
+311.215     311.025       7616     7716         256      NaN      3.7
+ 313.52      313.33       7697     7804         257      NaN      3.4
+ 316.27      316.08       7796     7928         259      NaN      3.7
+319.465     319.275       7913     8041         254      NaN      3.7
+321.805     321.615       8000     8148       253.3      NaN      3.5
+ 324.56      324.37       8101     8250       259.3      NaN        4
+ 326.17      325.98       8160     8327       256.3      NaN      3.5
+ 330.04      329.85       8299     8475       256.4      NaN      3.5
+ 330.43      330.24       8312     8488         257      NaN      3.7
+333.215     333.025       8410     8610         262      NaN      3.7
+335.965     335.775       8506     8702         259      NaN      3.7
+ 338.27      338.08       8586     8802       265.3      NaN      3.5
+ 341.02      340.83       8681     8904       265.7      NaN      3.5
+343.665     343.475       8770     9016       257.7      NaN      3.8
+346.965     346.775       8882     9140         258      NaN      4.3
+ 349.27      349.08       8959     9241         260      NaN      3.7
+ 352.02      351.83       9049     9347       260.3      NaN      3.5
+355.765     355.575       9169     9480         256      NaN      3.4
+357.415     357.225       9222     9545         258      NaN      3.4
+ 359.72      359.53       9295     9615       255.7      NaN      3.5
+362.915     362.725       9397     9739       260.7      NaN      3.5
+ 369.07      368.88       9589     9946       260.3      NaN      3.5
+371.165     370.975       9655    10024         255      NaN      3.4
+ 374.57      374.38       9761    10133         260      NaN      3.7
+377.215     377.025       9844    10240         259      NaN      3.7
+ 379.52      379.33       9916    10298       269.3      NaN      3.5
+381.715     381.525       9985    10388         270      NaN      3.7
+ 385.53      385.34      10106    10514       271.7      NaN      3.5
+ 388.28      388.09      10194    10613       268.3      NaN      3.8
+ 389.97      389.78      10248    10682         273      NaN      3.4
+393.715     393.525      10368    10824         264      NaN      3.4
+ 396.43      396.24      10456    10935       273.5      NaN      3.7
+399.215     399.025      10548    11038       268.7      NaN      3.8
+ 401.52      401.33      10624    11119         266      NaN      3.7
+404.715     404.525      10730    11241         264      NaN      3.7
+ 407.43      407.24      10820    11342         269      NaN      3.7
+411.315     411.125      10950    11484       265.3      NaN      3.5
+412.965     412.775      11006    11558       253.3      NaN      3.5
+ 415.27      415.08      11084    11631       255.7      NaN      3.5
+418.465     418.275      11193    11765         245      NaN      3.4
+ 421.32      421.13      11293    11865         245      NaN      3.4
+ 427.27      427.08      11513    12085       239.3      NaN      3.5
+429.015     428.825      11582    12167       236.3      NaN      3.5
+431.665     431.475      11692    12294       238.3      NaN        4
+ 434.52      434.33      11817    12411       242.7      NaN      3.5
+437.165     436.975      11938    12545       245.3      NaN      3.5
+ 443.32      443.13      12235    12849       252.7      NaN      3.5
+445.965     445.775      12368    12994       246.7      NaN      3.5
+ 448.27      448.08      12487    13116       251.7      NaN      3.5
+450.915     450.725      12622    13253         265      NaN      3.4
+ 453.77      453.58      12766    13400       266.7      NaN      3.5
+ 456.97      456.78      12924    13571       257.7      NaN      3.5
+ 460.33      460.14      13090    13727       261.7      NaN      3.5
+463.565     463.375      13249    13890       261.7      NaN      3.5
+464.788     464.598      13309    13937       257.4      NaN      3.4
+467.495     467.305      13442    14089         268      NaN      3.7
+ 469.72      469.53      13551    14196         271      NaN      4.1
+ 473.13      472.94      13715    14353       267.7      NaN      3.5
+ 479.62      479.43      14018    14671        NaN        240     3.4
+ 484.02      483.83      14226    14868        NaN      237.7       4
+ 487.18      486.99      14384    15035        NaN      232.7     3.5
+489.965     489.775      14529    15175        NaN        240     3.4
+ 491.72      491.53      14622    15274        NaN      242.3     3.5
+496.015     495.825      14852    15491        NaN        222     3.7
+ 498.87      498.68      15010    15635        NaN      244.3     3.5
+501.515     501.325      15163    15786        NaN        223     3.7
+ 504.37      504.18      15333    15957        NaN      220.3     3.5
+506.465     506.275      15462    16071        NaN        226     3.4
+ 509.18      508.99      15633    16230        NaN      231.3     3.5
+511.965     511.772      15813    16391        NaN      223.5     3.7
+ 514.68     514.482      15998    16548        NaN        227     3.4
+517.465     517.261      16195    16738        NaN        228     3.4
+ 519.77     519.562      16364    16898        NaN        234     3.7
+ 519.91     519.701      16375    16910        NaN        256     3.7
+522.965      522.75      16610    17093        NaN      223.3     3.5
+ 525.82       525.6      16844    17323        NaN      231.3       4
+528.465      528.24      17067    17494        NaN      237.3     3.5
+ 531.18     530.949      17305    17730        NaN        223     3.4
+532.865     532.631      17457    17855        NaN      241.3     4.6
+ 536.68     536.439      17808    18163        NaN      253.3     3.5
+539.465     539.218      18068    18425        NaN      203.7     3.5
+543.848     543.592      18480    18797        NaN      217.5     3.5
+ 548.78     548.515      18942    19221        NaN        225     3.4
+550.465     550.197      19100    19366        NaN        244     3.4
+ 552.77     552.497      19316    19585        NaN        243     3.7
+ 552.93     552.657      19331    19597        NaN      242.7     3.5
+555.965     555.686      19615    19871        NaN      221.7     3.5
+ 557.72     557.437      19779    20009        NaN        242     3.7
+561.465     561.175      20131    20357        NaN      242.7     3.5
+ 564.18     563.885      20383    20578        NaN        279     3.4
+566.965     566.664      20640    20848        NaN      244.3     3.5
+ 569.68     569.374      20891    21074        NaN      228.7     3.8
+ 572.47     572.159      21151    21320        NaN        239     4.1
+ 575.87     575.552      21468    21613        NaN        240     3.4
+ 578.17     577.847      21682    21811        NaN      226.3     3.5
+585.765     585.428      22388    22508        NaN        219     3.7
+590.655     590.308      22844    22929        NaN      206.3     3.5
+594.565      594.21      23205    23246        NaN      209.7     3.5
+598.965     598.602      23605    23667        NaN      201.7     3.5
+603.365     602.993      24004    24042        NaN        227     3.7
+607.765     607.385      24415    24452        NaN      202.3     3.5
+614.365     613.972      25043    24996        NaN        235     6.9
+619.255     618.852      25511    25446        NaN      217.3     3.5
+630.285      629.86      26550    26477        NaN      231.3     3.8
+ 634.66     634.227      26954    26902        NaN      220.5     3.7
+638.565     638.124      27308    27274        NaN      219.7     3.5
+643.485     643.035      27741    27709        NaN      228.3     3.5
+647.365     646.907      28077    28017        NaN      221.3     3.5
+652.255     651.787      28505    28469        NaN      203.3     3.5
+656.655     656.179      28886    28826        NaN        211     3.7
+663.275     662.786      29449    29391         199      NaN      3.7
+669.885     669.383      30024    29922       215.7      NaN      3.5
+673.765     673.255      30378    30274       213.3      NaN      3.5
+678.175     677.657      30787    30669       223.3      NaN        4
+684.765     684.234      31403    31260         231      NaN      3.7
+ 689.18      688.64      31809    31655         220      NaN      3.7
+694.085     693.536      32245    32074       218.3      NaN      3.8
+ 697.98     697.423      32592    32401       219.9      NaN      3.5
+702.365     701.799      32984    32801         222      NaN      3.7
+704.565     703.995      33179    32969       223.7      NaN      3.5
+709.485     708.906      33611    33399         224      NaN      3.7
+713.395     712.808      33961    33735       225.7      NaN      3.5
+717.765     717.169      34355    34134       226.7      NaN      3.5
+724.395     723.786      34934    34667       216.7      NaN      3.5
+728.795     728.178      35307    35051         224      NaN      3.7
+733.165     732.539      35687    35416       245.7      NaN      3.5
+740.255     739.615      36309    36016       249.3      NaN      3.5
+744.275     743.627      36656    36370       254.7      NaN      3.8
+749.065     748.408      37051    36753       230.7      NaN      3.8
+752.995      752.33      37359    37062       221.7      NaN      3.5
+757.885     757.211      37730    37435         213      NaN      3.4
+762.285     761.602      38066    37754       217.3      NaN      3.5
+766.165     765.475      38367    38021       218.7      NaN      3.5
+768.365      767.67      38541    38182         220      NaN      4.3
+ 773.25     772.546      38941    38584       232.7      NaN      3.5
+   NaN      776.035       NaN     38871         243      NaN      3.4
+779.365     778.649      39488    39113         217      NaN      3.4
+   NaN      781.015       NaN     39331       232.3      NaN      3.5
+ 783.77     783.045      39890    39523       224.3      NaN      3.5
+   NaN      786.515       NaN     39857       240.3      NaN        4
+   NaN      792.015       NaN     40419       219.7      NaN      3.5
+   NaN      803.535       NaN     41488         245      NaN      3.7
+   NaN      808.515       NaN     41963         235      NaN      3.4
+   NaN      814.015       NaN     42441       227.5      NaN      3.7
+   NaN      819.575       NaN     42955       240.7      NaN        4
+   NaN      825.565       NaN     43538       233.7      NaN        4
+   NaN      830.515       NaN     43984         249      NaN      3.7
+   NaN      835.985       NaN     44466       251.3      NaN      4.4
+   NaN      842.035       NaN     44923       270.3      NaN      3.5
+   NaN      847.015       NaN     45278       257.3      NaN      3.8
+   NaN      858.045       NaN     46079       232.3      NaN      3.8
+   NaN      863.515       NaN     46528         220      NaN      3.7
+   NaN      869.015       NaN     46991         229      NaN      3.7
+   NaN      875.035       NaN     47550         224      NaN      3.7
+   NaN      886.035       NaN     48516         243      NaN      3.7
+   NaN      891.015       NaN     48944       241.7      NaN        4
+   NaN      896.545       NaN     49419       248.7      NaN      3.8
+   NaN      902.015       NaN     49897       263.7      NaN      3.5
+   NaN       913.02       NaN     50780       260.7      NaN      3.5
+   NaN      918.515       NaN     51229       269.3      NaN        4
+   NaN      924.015       NaN     51666       250.7      NaN        4
+   NaN      929.515       NaN     52058       249.3      NaN      3.5
+   NaN      940.515       NaN     52958       257.3      NaN      3.5
+   NaN      946.015       NaN     53422       236.3      NaN      3.5
+   NaN       951.54       NaN     53892         219      NaN      4.1
+   NaN      957.015       NaN     54398       247.7      NaN        4
+   NaN      968.015       NaN     55347       256.3      NaN      3.8
+   NaN      973.515       NaN     55772       262.7      NaN        4
+   NaN      979.015       NaN     56204        NaN      282.7       4
+   NaN      984.515       NaN     56621        NaN        269     3.7
+   NaN      995.515       NaN     57456        NaN      228.3     3.5
+   NaN     1001.015       NaN     57870        NaN        223     3.7
+   NaN     1006.515       NaN     58306        NaN      236.3       4
+   NaN     1012.015       NaN     58769        NaN      228.5     5.2
+   NaN     1023.015       NaN     59726        NaN        214     3.7
+   NaN     1028.515       NaN     60250        NaN      248.3     4.4
+   NaN     1034.015       NaN     60823        NaN      240.7     3.5
+   NaN      1039.51       NaN     61422       214.7      NaN        4
+   NaN     1050.515       NaN     62535         215      NaN      3.7
+   NaN     1056.505       NaN     63189         224      NaN      4.1
+   NaN     1061.515       NaN     63771         218      NaN      3.7
+   NaN     1067.015       NaN     64390         209      NaN      3.7
+   NaN     1078.015       NaN     65602       213.3      NaN      3.8
+   NaN     1083.515       NaN     66234       217.3      NaN      3.5
+   NaN     1089.015       NaN     66870       232.3      NaN      3.8
+   NaN     1094.515       NaN     67509       251.3      NaN        4
+   NaN     1105.545       NaN     68526       220.3      NaN      3.8
+   NaN     1111.015       NaN     69008       216.3      NaN        4
+   NaN     1116.515       NaN     69531       234.3      NaN      3.8
+   NaN     1122.015       NaN     70108       254.3      NaN        4
+   NaN     1133.015       NaN     71214       274.3      NaN        4
+   NaN     1138.515       NaN     71696         255      NaN      3.4
+   NaN     1144.015       NaN     72143         226      NaN      4.1
+   NaN     1149.515       NaN     72599         235      NaN      3.7
+   NaN     1160.515       NaN     73694         228      NaN      3.7
+   NaN     1166.015       NaN     74239       250.3      NaN      3.5
+   NaN     1171.515       NaN     74761         256      NaN      3.7
+   NaN     1177.015       NaN     75311       262.3      NaN      3.8
+   NaN     1188.015       NaN     76360       250.3      NaN        4
+   NaN     1193.515       NaN     76872         261      NaN      3.7
+   NaN     1199.015       NaN     77371       261.7      NaN      3.5
+   NaN     1204.515       NaN     77853       251.3      NaN      3.8
+   NaN     1215.515       NaN     78817       270.7      NaN      3.8
+   NaN     1221.015       NaN     79266         265      NaN      4.3
+   NaN     1226.515       NaN     79711         266      NaN      3.7
+   NaN     1232.015       NaN     80142       267.3      NaN        4
+   NaN     1243.015       NaN     80970       239.3      NaN        4
+   NaN     1248.515       NaN     81389       243.3      NaN        4
+   NaN     1254.015       NaN     81824       229.7      NaN      3.5
+   NaN     1259.515       NaN     82283       219.7      NaN      3.5
+   NaN     1270.515       NaN     83248       214.7      NaN      3.8
+   NaN     1276.015       NaN     83754       224.7      NaN      3.8
+   NaN     1281.515       NaN     84323       243.7      NaN      3.8
+   NaN     1287.015       NaN     84917       232.3      NaN      3.5
+   NaN     1292.515       NaN     85522         248      NaN      3.4
+   NaN     1298.015       NaN     86109       246.3      NaN      3.8
+   NaN     1303.545       NaN     86638       241.3      NaN      3.8
+   NaN     1309.015       NaN     87169       240.7      NaN        4
+   NaN     1314.515       NaN     87735       239.3      NaN        4
+   NaN     1325.515       NaN     88923       236.3      NaN        4
+   NaN     1331.015       NaN     89492       245.3      NaN      3.5
+   NaN     1336.515       NaN     90033       245.7      NaN      3.5
+   NaN     1342.015       NaN     90600       230.3      NaN        4
+   NaN     1353.015       NaN     91697       237.7      NaN      3.8
+   NaN     1358.515       NaN     92240         244      NaN      3.4
+   NaN     1364.015       NaN     92747         263      NaN      3.7
+   NaN     1369.515       NaN     93289       254.3      NaN      3.5
+   NaN     1380.515       NaN     94395       257.3      NaN      3.5
+   NaN     1386.015       NaN     94944         242      NaN      3.4
+   NaN     1391.515       NaN     95490       257.3      NaN      3.8
+   NaN     1397.015       NaN     96015       255.3      NaN      3.5
+   NaN     1408.015       NaN     97126         256      NaN      3.7
+   NaN     1413.515       NaN     97675       254.3      NaN      3.5
+   NaN     1419.015       NaN     98193       262.3      NaN      3.8
+   NaN     1424.515       NaN     98723       249.3      NaN      3.5
+   NaN     1435.515       NaN     99831         233      NaN      3.4
+   NaN     1441.015       NaN    100403         234      NaN      3.4
+   NaN     1446.515       NaN    101005       242.3      NaN      3.5
+   NaN     1452.015       NaN    101604       257.3      NaN      3.8
+   NaN     1463.015       NaN    102843       266.3      NaN      3.5
+   NaN     1468.515       NaN    103482         271      NaN      3.4
+   NaN     1474.015       NaN    104139       243.7      NaN      3.5
+   NaN     1479.515       NaN    104797         230      NaN      3.7
+   NaN     1490.515       NaN    106182         250      NaN      3.7
+   NaN     1496.015       NaN    106892       256.3      NaN      3.5
+   NaN     1501.515       NaN    107580       233.3      NaN      3.5
+   NaN     1507.015       NaN    108257         247      NaN      3.7
+   NaN     1518.015       NaN    109620       249.3      NaN      3.8
+   NaN     1523.515       NaN    110254       251.3      NaN      3.5
+   NaN     1529.015       NaN    110875       254.7      NaN      3.8
+   NaN     1545.515       NaN    112582       250.7      NaN      3.8
+   NaN     1551.015       NaN    113140       256.7      NaN      3.8
+   NaN     1556.515       NaN    113660         251      NaN      3.4
+   NaN     1562.015       NaN    114156         257      NaN      3.7
+   NaN     1573.015       NaN    115130       259.3      NaN      3.8
+   NaN     1578.515       NaN    115591       270.7      NaN      3.5
+   NaN     1584.015       NaN    116042         274      NaN      3.7
+   NaN     1590.035       NaN    116563       254.3      NaN      3.5
+   NaN     1600.515       NaN    117438       262.3      NaN      3.5
+   NaN     1606.015       NaN    117893         263      NaN      3.7
+   NaN     1611.515       NaN    118346       267.3      NaN      3.8
+   NaN     1617.015       NaN    118785       265.7      NaN      3.5
+   NaN     1628.015       NaN    119658       257.3      NaN      3.5
+   NaN     1633.515       NaN    120078       262.7      NaN      3.5
+   NaN     1639.505       NaN    120553       262.3      NaN      3.5
+   NaN     1639.535       NaN    120555       261.3      NaN        4
+   NaN     1644.515       NaN    120959         262      NaN      3.7
+   NaN     1655.515       NaN    121783       261.7      NaN      3.8
+   NaN     1661.535       NaN    122291       264.7      NaN      3.8
+   NaN     1666.515       NaN    122711         263      NaN      3.7
+   NaN     1672.015       NaN    123172       263.3      NaN        4
+   NaN     1683.015       NaN    124138       251.7      NaN      3.5
+   NaN     1688.515       NaN    124578       254.7      NaN      3.5
+   NaN     1694.015       NaN    125007       254.3      NaN      3.8
+   NaN     1699.515       NaN    125420       255.7      NaN      3.5
+   NaN     1710.515       NaN    126137       267.7      NaN      3.5
+   NaN     1716.015       NaN    126476         265      NaN      4.1
+   NaN     1721.545       NaN    126833       252.7      NaN        4
+   NaN     1727.015       NaN    127194       243.3      NaN      3.8
+   NaN     1738.015       NaN    127922       243.7      NaN      3.8
+   NaN      1744.01       NaN    128360       232.7      NaN      3.5
+   NaN     1749.015       NaN    128750       225.3      NaN      3.5
+   NaN     1754.515       NaN    129199       229.3      NaN      3.5
+   NaN     1765.515       NaN    130197       218.7      NaN      3.5
+   NaN     1771.015       NaN    130784       226.3      NaN      3.5
+   NaN      1776.53       NaN    131457       239.5      NaN      3.7
+   NaN     1782.015       NaN    132160         211      NaN      3.7
+   NaN      1793.49       NaN    134037        NaN      232.5     3.7
+   NaN      1799.56       NaN    135172        NaN      243.7     3.5
+   NaN     1804.565       NaN    136117        NaN        225     3.7
+   NaN     1809.515       NaN    137087        NaN        266     3.7
+   NaN     1820.515       NaN    139317        NaN      235.7     3.8
+   NaN      1826.49       NaN    140535        NaN      217.7     3.5
+   NaN     1831.515       NaN    141517        NaN      253.7     3.5
+   NaN     1831.545       NaN    141523        NaN        242     3.4
+   NaN     1837.015       NaN    142580        NaN      215.7       4
+   NaN     1848.485       NaN    144821        NaN      223.7     3.5
+   NaN     1853.515       NaN    145778        NaN      223.3     3.5
+   NaN     1859.485       NaN    146917        NaN      232.7     3.8
+   NaN     1864.515       NaN    147867        NaN        258     3.7
+   NaN     1875.985       NaN    149908        NaN      252.3     3.5
+   NaN      1881.03       NaN    150840        NaN      185.5     3.4
+   NaN     1886.515       NaN    151954        NaN        202     3.7
+   NaN     1892.015       NaN    153126        NaN        204     3.4
+   NaN     1903.015       NaN    155551        NaN        210     3.7
+   NaN     1908.515       NaN    156700        NaN      236.3     3.5
+   NaN     1914.015       NaN    157664        NaN      213.3     3.5
+   NaN     1919.975       NaN    158817        NaN        226     3.7
+   NaN     1930.515       NaN    160887        NaN        205     3.4
+   NaN      1936.03       NaN    162046        NaN      212.3     3.7
+   NaN     1941.515       NaN    163268        NaN      232.3     3.8
+   NaN     1947.015       NaN    164467        NaN      240.7     3.5
+   NaN     1958.015       NaN    166589        NaN      242.3     3.8
+   NaN      1963.53       NaN    167680        NaN      246.2     3.5
+   NaN     1969.015       NaN    168875        NaN      250.3     3.5
+   NaN     1974.515       NaN    169988        NaN        229     3.7
+   NaN     1985.518       NaN    172323        NaN      218.7     3.5
+   NaN     1991.015       NaN    173551        NaN        271     3.4
+   NaN     1996.515       NaN    174765        NaN        258     3.4
+   NaN     2002.465       NaN    176119        NaN        234     3.7
+   NaN     2013.505       NaN    178737       241.7      NaN      3.5
+   NaN     2018.515       NaN    180007       226.7      NaN      3.5
+   NaN     2024.505       NaN    181595       219.5      NaN      3.6
+   NaN     2029.515       NaN    182910         216      NaN      3.9
+   NaN     2040.515       NaN    185542         254      NaN      3.7
+   NaN     2046.015       NaN    186514       227.3      NaN      3.5
+   NaN     2051.515       NaN    187527       216.3      NaN      3.5
+   NaN     2057.535       NaN    188849       251.3      NaN      3.5
+   NaN     2068.015       NaN    191040         232      NaN      3.7
+   NaN     2073.515       NaN    192312       248.3      NaN      3.5
+   NaN     2079.015       NaN    193430         250      NaN      3.7
+   NaN     2084.515       NaN    194493       244.3      NaN      3.5
+   NaN     2095.515       NaN    196322         254      NaN      3.7
+   NaN     2101.015       NaN    197184         254      NaN      3.7
+   NaN     2107.035       NaN    198147         255      NaN      3.4
+   NaN     2112.535       NaN    199056       256.7      NaN      3.5
+   NaN     2123.015       NaN    201119       245.3      NaN      3.5
+   NaN     2128.515       NaN    202308       243.7      NaN      3.5
+   NaN     2134.015       NaN    203467       252.7      NaN      3.5
+   NaN     2139.515       NaN    204504       253.3      NaN      3.5
+   NaN     2151.065       NaN    206643       250.3      NaN      3.5
+   NaN     2156.015       NaN    207543       258.7      NaN      3.5
+   NaN     2161.515       NaN    208492       252.7      NaN      3.5
+   NaN     2167.015       NaN    209418         252      NaN      3.7
+   NaN     2178.015       NaN    211327       250.7      NaN      3.5
+   NaN     2183.515       NaN    212335       257.3      NaN      3.8
+   NaN     2189.015       NaN    213295       265.3      NaN      3.5
+   NaN     2194.515       NaN    214186       240.7      NaN      3.5
+   NaN     2798.415       NaN    433946        NaN      234.3     3.5
+   NaN     2800.615       NaN    435982        NaN        240     3.7
+   NaN     2801.085       NaN    436403        NaN      233.3     3.8
+   NaN     2801.715       NaN    436905        NaN        249     3.7
+   NaN      2802.16       NaN    437253        NaN      231.7       4
+   NaN     2802.815       NaN    437749        NaN        233     3.7
+   NaN      2803.26       NaN    438091        NaN        234     3.7
+   NaN     2804.035       NaN    438696        NaN      263.7     3.8
+   NaN     2804.385       NaN    438983        NaN        266     3.7
+   NaN     2805.015       NaN    439501        NaN      242.3     3.5
+   NaN     2806.115       NaN    440394        NaN      212.3     3.8
+   NaN     2807.215       NaN    441251        NaN        195     4.3
+   NaN     2809.415       NaN    443039        NaN      236.3     3.5
+   NaN     2810.515       NaN    443926        NaN      260.7       4
+   NaN     2810.975       NaN    444297        NaN      282.3     3.8
+   NaN     2811.615       NaN    444803        NaN      256.3     3.5
+   NaN     2812.085       NaN    445170        NaN      236.7     3.5
+   NaN     2813.815       NaN    446456        NaN        218     3.7
+   NaN     2814.915       NaN    447330        NaN        211     3.7
+   NaN     2816.015       NaN    448281        NaN      231.7     3.5
+   NaN     2816.485       NaN    448702        NaN      243.7       4
+   NaN     2817.585       NaN    449692        NaN      244.7     3.5
+   NaN     2818.215       NaN    450251        NaN      236.7     3.5
+   NaN     2819.345       NaN    451194        NaN      238.7     3.5
+   NaN     2820.415       NaN    452053         219      NaN      3.7
+   NaN     2821.955       NaN    453368       212.3      NaN      3.5
+   NaN     2822.615       NaN    453966       229.7      NaN      3.5
+   NaN     2823.715       NaN    454934         248      NaN      4.1
+   NaN     2824.815       NaN    455871         264      NaN      3.7
+   NaN     2827.015       NaN    457539       240.7      NaN      3.5
+   NaN     2828.115       NaN    458235         239      NaN      3.7
+   NaN     2829.215       NaN    458958       255.3      NaN      3.5
+   NaN     2831.415       NaN    460622         262      NaN      3.7
+   NaN     2832.515       NaN    461345       241.5      NaN      3.7
+   NaN     2833.615       NaN    462035         232      NaN      3.7
+   NaN     2835.185       NaN    463140       255.7      NaN      3.8
+   NaN     2835.815       NaN    463608         243      NaN      3.7
+   NaN     2836.915       NaN    464385       254.7      NaN      4.6
+   NaN     2838.015       NaN    465118         257      NaN      3.7
+   NaN     2840.215       NaN    466543       257.3      NaN      3.5
+   NaN     2841.315       NaN    467249       261.3      NaN      3.5
+   NaN     2842.415       NaN    467952         254      NaN      3.4
+   NaN     2844.605       NaN    469320       261.3      NaN      3.5
+   NaN     2845.715       NaN    469981       264.7      NaN      3.5
+   NaN     2846.815       NaN    470617       273.7      NaN      4.8
+   NaN     2849.015       NaN    471860         268      NaN      3.4
+   NaN     2850.105       NaN    472477         274      NaN      3.7
+   NaN     2851.215       NaN    473122       266.3      NaN      3.5
+   NaN     2853.415       NaN    474465       259.7      NaN      3.5
+   NaN     2855.615       NaN    475829         254      NaN      4.3
+   NaN     2857.815       NaN    477216       243.7      NaN      3.8
+   NaN     2858.915       NaN    477907       265.7      NaN      3.5
+   NaN     2860.015       NaN    478614       263.7      NaN      3.5
+   NaN     2862.215       NaN    480029       263.3      NaN      3.5
+   NaN     2864.415       NaN    481503       260.5      NaN      3.7
+   NaN     2866.615       NaN    483025         265      NaN      3.7
+   NaN     2867.715       NaN    483784       272.7      NaN        4
+   NaN     2868.838       NaN    484550       281.3      NaN      3.5
+   NaN     2871.015       NaN    486032         267      NaN      4.3
+   NaN     2873.215       NaN    487591         275      NaN      3.7
+   NaN     2875.415       NaN    489144       280.3      NaN      3.5
+   NaN     2876.515       NaN    489993       268.7      NaN        4
+   NaN     2879.815       NaN    492586       252.3      NaN      3.5
+   NaN     2880.915       NaN    493436         265      NaN      3.7
+   NaN     2882.015       NaN    494302         269      NaN      3.7
+   NaN     2884.215       NaN    496017         284      NaN      3.7
+   NaN     2885.315       NaN    496853         270      NaN      3.7
+   NaN     2886.445       NaN    497690       288.7      NaN      3.5
+   NaN     2886.885       NaN    498013       280.7      NaN      3.8
+   NaN     2887.985       NaN    498828       281.7      NaN      7.1
+   NaN     2888.615       NaN    499281       254.3      NaN      5.4
+   NaN     2890.815       NaN    500841         260      NaN      3.4
+   NaN     2895.215       NaN    503896       247.7      NaN        4
+   NaN     2897.415       NaN    505398       254.7      NaN      3.5
+   NaN     2898.515       NaN    506189         253      NaN      3.7
+   NaN     2899.615       NaN    507000         247      NaN      3.4
+   NaN     2901.815       NaN    508681       260.3      NaN      3.5
+   NaN     2902.915       NaN    509530         264      NaN      3.7
+   NaN     2904.015       NaN    510370       259.7      NaN        4
+   NaN     2906.215       NaN    512013       263.7      NaN      3.5
+   NaN     2906.685       NaN    512351        NaN      270.3     3.8
+   NaN     2907.315       NaN    512807        NaN        270     3.7
+   NaN     2908.415       NaN    513633        NaN      226.3     4.6
+   NaN     2911.715       NaN    516521        NaN        241     3.7
+   NaN     2912.815       NaN    517578        NaN        236     3.7
+   NaN     2915.045       NaN    519689        NaN        264     3.7
+   NaN     2916.585       NaN    521117        NaN      266.7     3.5
+   NaN     2917.215       NaN    521706        NaN      252.3     3.5
+   NaN     2917.685       NaN    522147        NaN        255     3.9
+   NaN     2919.415       NaN    523843        NaN        246     3.4
+   NaN     2920.515       NaN    524918        NaN      253.3     3.6
+   NaN     2923.815       NaN    528193       250.7      NaN      3.5
+   NaN     2924.915       NaN    529386         239      NaN      3.7
+   NaN     2926.015       NaN    530542       246.3      NaN      3.8
+   NaN     2928.215       NaN    532764       260.7      NaN      3.5
+   NaN     2929.315       NaN    533751       271.5      NaN      3.7
+   NaN     2930.415       NaN    534710         268      NaN      3.4
+   NaN     2931.985       NaN    536185       242.7      NaN      3.5
+   NaN     2932.615       NaN    536754       233.3      NaN      3.5
+   NaN     2933.715       NaN    537701       242.3      NaN      3.5
+   NaN     2934.815       NaN    538575         269      NaN      4.1
+   NaN     2937.015       NaN    540155         271      NaN      4.3
+   NaN     2938.115       NaN    540980         282      NaN      3.7
+   NaN     2939.215       NaN    541868         283      NaN      4.1
+   NaN     2940.425       NaN    542915         269      NaN      3.7
+   NaN     2941.415       NaN    543815       261.7      NaN      3.8
+   NaN     2942.515       NaN    544886         244      NaN      3.7
+   NaN     2943.615       NaN    545966       245.7      NaN      3.5
+   NaN     2945.805       NaN    547989         261      NaN      3.7
+   NaN     2946.915       NaN    548976       267.3      NaN      3.5
+   NaN     2948.015       NaN    549922       258.7      NaN        4
+   NaN     2948.485       NaN    550327       280.3      NaN      3.5
+   NaN     2950.735       NaN    552215       269.3      NaN      3.5
+   NaN     2951.315       NaN    552689       275.5      NaN      3.7
+   NaN     2952.415       NaN    553549       279.7      NaN      3.5
+   NaN     2954.615       NaN    555180       276.7      NaN      3.8
+   NaN     2955.715       NaN    555987         272      NaN      3.7
+   NaN     2956.815       NaN    556795       267.7      NaN        4
+   NaN     2959.015       NaN    558377         291      NaN      3.7
+   NaN     2960.115       NaN    559146       274.7      NaN      3.8
+   NaN     2961.225       NaN    559932       279.7      NaN      3.5
+   NaN     2963.415       NaN    561459       283.3      NaN        4
+   NaN     2964.545       NaN    562234         277      NaN      3.7
+   NaN     2965.615       NaN    562961         269      NaN      3.4
+   NaN     2967.815       NaN    564459       268.7      NaN      3.5
+   NaN     2968.915       NaN    565212         274      NaN      3.4
+   NaN     2970.015       NaN    565955         273      NaN      3.4
+   NaN     2972.215       NaN    567495       278.5      NaN      3.6
+   NaN     2973.315       NaN    568261         282      NaN      3.7
+   NaN     2974.415       NaN    569019       279.7      NaN      3.5
+   NaN     2976.615       NaN    570522       266.3      NaN      3.5
+   NaN     2977.715       NaN    571285       269.3      NaN      3.8
+   NaN     2978.845       NaN    572077         267      NaN      3.7
+   NaN     2981.015       NaN    573628       274.7      NaN      3.8
+   NaN     2982.115       NaN    574423         279      NaN      3.4
+   NaN     2983.215       NaN    575233       269.3      NaN      3.8
+   NaN     2985.425       NaN    576869         270      NaN      3.9
+   NaN     2986.515       NaN    577648         261      NaN      3.7
+   NaN     2987.615       NaN    578436       273.7      NaN      3.8
+   NaN     2989.815       NaN    580036         257      NaN      3.4
+   NaN     2990.915       NaN    580865         255      NaN      3.7
+   NaN     2992.015       NaN    581685         250      NaN      3.7
+   NaN     2994.215       NaN    583210         270      NaN      3.7
+   NaN     2995.315       NaN    583933       272.7      NaN      3.5
+   NaN     2996.415       NaN    584649         266      NaN      3.7
+   NaN     2998.615       NaN    586195       244.3      NaN      3.8
+   NaN     2999.715       NaN    587078       240.3      NaN      3.5
+   NaN     3000.815       NaN    588063       221.3      NaN      3.8
+   NaN     3005.215       NaN    592760         251      NaN      3.7
+   NaN     3007.415       NaN    595178       278.3      NaN        4
+   NaN     3008.515       NaN    596228       283.3      NaN        4
+   NaN     3009.065       NaN    596726       226.7      NaN       16
+   NaN     3011.815       NaN    599444         267      NaN      3.4
+   NaN     3012.915       NaN    600491       287.3      NaN      3.5
+   NaN     3014.015       NaN    601480       244.3      NaN      3.8
+   NaN     3015.585       NaN    603081       254.7      NaN      3.5
+   NaN     3016.215       NaN    603782       268.7      NaN      3.8
+   NaN     3017.325       NaN    605006       268.3      NaN      3.5
+   NaN     3018.415       NaN    606164         244      NaN      3.7
+   NaN     3020.615       NaN    608390         264      NaN      3.7
+   NaN     3021.715       NaN    609463         277      NaN      3.4
+   NaN     3022.815       NaN    610500       276.7      NaN        4
+   NaN     3024.385       NaN    611872         273      NaN      3.7
+   NaN     3025.015       NaN    612401         274      NaN      3.7
+   NaN     3026.115       NaN    613273       274.7      NaN      3.5
+   NaN     3027.215       NaN    614114       266.7      NaN      3.5
+   NaN     3029.415       NaN    615760         278      NaN      3.7
+   NaN     3030.515       NaN    616564       274.3      NaN      8.6
+   NaN     3031.615       NaN    617370         266      NaN      3.4
+   NaN     3033.815       NaN    619056         277      NaN      3.7
+   NaN     3034.915       NaN    619918         272      NaN      3.4
+   NaN     3035.385       NaN    620286         274      NaN      3.7
+   NaN      3036.04       NaN    620799       278.7      NaN      3.5
+   NaN     3036.485       NaN    621145         267      NaN      3.7
+   NaN     3037.585       NaN    622011       263.7      NaN      3.5
+   NaN     3038.215       NaN    622509       268.3      NaN      3.8
+   NaN     3038.685       NaN    622873       243.3      NaN      3.5
+   NaN     3039.315       NaN    623358       232.7      NaN      3.8
+   NaN     3040.415       NaN    624238       231.7      NaN      3.5
+   NaN     3042.615       NaN    626618        NaN      226.3     3.8
+   NaN     3043.695       NaN    628085        NaN      260.3     3.5
+   NaN     3044.815       NaN    629664        NaN      233.7     3.5
+   NaN     3046.385       NaN    631909        NaN      236.7     3.5
+   NaN     3047.015       NaN    632823        NaN      252.7     3.5
+   NaN     3048.115       NaN    634345        NaN      222.3     3.5
+   NaN     3049.315       NaN    635911        NaN      251.7     3.8
+   NaN     3051.415       NaN    638602        NaN      237.7     3.8
+   NaN     3052.515       NaN    640007        NaN        233     3.7
+   NaN     3053.615       NaN    641419        NaN      266.7     3.8
+   NaN     3054.065       NaN    641987        NaN      248.7     3.5
+   NaN     3055.815       NaN    644129        NaN        218     3.9
+   NaN     3056.915       NaN    645583        NaN        250     3.7
+   NaN     3058.015       NaN    647130        NaN      277.7     3.5
+

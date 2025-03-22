@@ -1,0 +1,28 @@
+/* DATA DESCRIPTION:
+Citation:	Möller, Lars; Sowers, Todd A; Bock, Michael; Spahni, Renato; Behrens, Melanie; Schmitt, Jochen; Miller, Heinz; Fischer, Hubertus (2013): Tie-points for the manual methane synchronization of Vostok ice core data to EDC ice core gas age scales in between DO event 21 and the Termination 2 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.812114, 
+	In supplement to: Möller, L et al. (2013): Independent variations of CH4 emissions and isotopic composition over the past 160,000 years. Nature Geoscience, 6, 885-890, https://doi.org/10.1038/ngeo1922
+Related to:	Chappellaz, Jérôme A; Barnola, Jean-Marc; Raynaud, Dominique; Korotkevich, Yevgeniy S; Lorius, C (1990): Ice-core record of atmospheric methane over the past 160,000 years. Nature, 345(6271), 127-131, https://doi.org/10.1038/345127a0
+	Loulergue, Laetitia; Schilt, Adrian; Spahni, Renato; Masson-Delmotte, Valerie; Blunier, Thomas; Lemieux, Bénédicte; Barnola, Jean-Marc; Raynaud, Dominique; Stocker, Thomas F; Chappellaz, Jérôme A (2008): Orbital and millennial-scale features of atmospheric CH4 over the past 800,000 years. Nature, 453(7193), 383-386, https://doi.org/10.1038/nature06950
+	Lüthi, Dieter; Le Floch, Martine; Bereiter, Bernhard; Blunier, Thomas; Barnola, Jean-Marc; Siegenthaler, Urs; Raynaud, Dominique; Jouzel, Jean; Fischer, Hubertus; Kawamura, Kenji; Stocker, Thomas F (2008): High-resolution carbon dioxide concentration record 650,000 - 800,000 years before present. Nature, 453, 379-382, https://doi.org/10.1038/nature06949
+Project(s):	European Project for Ice Coring in Antarctica (EPICA) (URI: https://en.wikipedia.org/wiki/European_Project_for_Ice_Coring_in_Antarctica)
+Funding:	Fifth Framework Programme (FP5), grant/award no. EVK2-CT-2000-00077: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/EVK2-CT-2000-00077)
+	Fourth Framework Programme (FP4), grant/award no. ENV4980702: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/ENV4980702)
+Coverage:	LATITUDE: -75.100000 * LONGITUDE: 123.350000
+	DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00
+	MINIMUM DEPTH, ice/snow: 1241.67 m * MAXIMUM DEPTH, ice/snow: 1723.46 m
+Event(s):	EDC (EPICA Dome C) (URI: https://en.wikipedia.org/wiki/Dome_C) * LATITUDE: -75.100000 * LONGITUDE: 123.350000 * DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00 * ELEVATION: 3233.0 m * Recovery: 3300 m * LOCATION: Dome C, Antarctica * CAMPAIGN: Dome C * METHOD/DEVICE: Ice drill (ICEDRILL) * COMMENT: Drill site is 56 km from the site of a previous Dome C core that provided records extending into the last glacial period, and 560 km from the site of the Vostok cores. The completion of the Dome C core was delayed when the first drilling became stuck at 788 m in 1999 (EDC96).
+Parameter(s):	Tie point (Tie point) * PI: Möller, Lars (https://orcid.org/0000-0002-8880-5019, lmoeller@marum.de)
+	DEPTH, ice/snow [m] (Depth ice/snow) * GEOCODE
+	Gas age [ka BP] (Gas age) * PI: Möller, Lars (https://orcid.org/0000-0002-8880-5019, lmoeller@marum.de) * COMMENT: EDC3 age, for Vostok ice core interpolated from data in Lüthi et al. 2008, doi:10.1038/nature06949
+	Methane [ppbv] (CH4) * PI: Möller, Lars (https://orcid.org/0000-0002-8880-5019, lmoeller@marum.de) * COMMENT: interpolated (see Loulergue et al. 2008, doi:10.1038/nature06950)
+	Depth, reference [m] (Depth ref) * PI: Möller, Lars (https://orcid.org/0000-0002-8880-5019, lmoeller@marum.de) * COMMENT: Vostok ice core
+	Methane [ppbv] (CH4) * PI: Möller, Lars (https://orcid.org/0000-0002-8880-5019, lmoeller@marum.de) * COMMENT: Vostok ice core, interpolated (see Chappellaz et al. 1990, doi:10.1038/345127a0)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	25 data points
+*/
+Tie point	Depth ice/snow [m]	Gas age [ka BP] (EDC3 age, for Vostok ice core...)	CH4 [ppbv] (interpolated (see Loulergue e...)	Depth ref [m] (Vostok ice core)	CH4 [ppbv] (Vostok ice core, interpolated...)
+1	1241.67	83.627	500.7	1266.83	500.1
+2	1367.89	95.866	470.2	1440.34	470.0
+3	1473.40	106.781	510.1	1536.00	510.8
+4	1543.59	115.081	480.2	1635.97	480.4
+5	1723.46	128.871	559.9	1881.99	560.1

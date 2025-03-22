@@ -1,0 +1,11 @@
+services:
+  volcano-detector:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: volcano-detector
+    volumes:
+      - ./volcano_detection:/app/volcano_detection
+    working_dir: /app
+    command: python volcano_detection/main.py
+    tty: true

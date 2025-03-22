@@ -1,0 +1,202 @@
+﻿# EPICA Dome C - Carbon Dioxide and Methane Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed. 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page:  https://www.ncei.noaa.gov/access/paleo-search/study/2449
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-2449.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Ice Cores
+#
+# Dataset_DOI: 10.25921/ggj5-vt17
+#
+# Science_Keywords:
+#--------------------
+# Resource_Links
+#   
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/domec_ch4-noaa.txt
+#   Data_Download_Description: NOAA Template File; Atmospheric Methane Data
+#
+#--------------------
+# Contribution_Date
+#    Date: 2001-01-01
+#--------------------
+# File_Last_Modified_Date
+#     Date: 2022-07-21
+#--------------------
+# Title
+#   Study_Name: EPICA Dome C - Carbon Dioxide and Methane Data
+#--------------------
+# Investigators
+#   Investigators: Monnin, E.; Indermühle, A.; Dällenbach, A.; Flückiger, J.; Stauffer, B.; Stocker, T.F.; Raynaud, D.; Barnola, J.-M.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: A record of atmospheric CO2 concentration during the transition from the Last Glacial Maximum to the Holocene, obtained from the Dome Concordia (Antarctica) ice core, reveals that an increase of 76 parts per million by volume (ppmv) occurred over a period of 6 thousand years in four clearly distinguishable intervals. The close correlation between CO2 concentration and Antarctic temperature indicates that the Southern Ocean played an important role in causing the CO2 increase. However, the similarity of changes in CO2 concentration and variations of atmospheric methane concentration suggests that processes in the tropics and in the northern hemisphere, where the main sources for methane are located, also had significant effects on atmospheric CO2 concentrations.
+#--------------------
+# Publication 
+#   Authors: Monnin, E., A. Indermühle, A. Dällenbach, J. Flückiger, B. Stauffer, T. F. Stocker, D. Raynaud, J.-M. Barnola
+#   Published_Date_or_Year: 2001
+#   Published_Title: Atmospheric CO2 Concentrations over the Last Glacial Termination 
+#   Journal_Name: Science
+#   Volume: 291
+#   Edition: 
+#   Issue: 
+#   Pages: 112-114
+#   Report_Number: 
+#   DOI: 10.1126/science.291.5501.112
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: A record of atmospheric carbon dioxide (CO2) concentration during the transition from the Last Glacial Maximum to the Holocene, obtained from the Dome Concordia, Antarctica, ice core, reveals that an increase of 76 parts per million by volume occurred over a period of 6000 years in four clearly distinguishable intervals. The close correlation between CO2 concentration and Antarctic temperature indicates that the Southern Ocean played an important role in causing the CO2 increase. However, the similarity of changes in CO2 concentration and variations of atmospheric methane concentration suggests that processes in the tropics and in the Northern Hemisphere, where the main sources for methane are located, also had substantial effects on atmospheric CO2 concentrations.
+#--------------------
+# Publication 
+#   Authors: Schwander, J., J. Jouzel, C. U. Hammer, J.-R. Petit, R. Udisti, E. Wolff
+#   Published_Date_or_Year: 2001-11-15
+#   Published_Title: A tentative chronology for the EPICA Dome Concordia ice core
+#   Journal_Name: Geophysical Research Letters
+#   Volume: 28
+#   Edition: 
+#   Issue: 22
+#   Pages: 4243-4246
+#   Report_Number: 
+#   DOI: 10.1029/2000GL011981
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: A tentative age scale (EDC1) for the last 45 kyr is established for the new 788-m EPICA Dome C ice core using a simple ice flow model. The age of volcanic eruptions, the end of the Younger Dryas event, and the estimated depth and age of elevated 10Be, about 41 kyr ago were used to calibrate the model parameters. The uncertainty of EDC1 is estimated to ±10 yr for 0 to 700 yr BP, up to ±200 yr back to 10 kyr BP, and up to ±2 kyr back to 41 kyr BP. The age of the air in the bubbles is calculated with a firn densification model. In the Holocene the air is about 2000 yr younger than the ice and about 5500 yr during the last glacial maximum.
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: 
+#   Grant: 
+#--------------------
+# Site_Information 
+#   Site_Name: EPICA Dome C
+#   Location: Antarctica
+#   Northernmost_Latitude: -75.1
+#   Southernmost_Latitude: -75.1
+#   Easternmost_Longitude: 123.4
+#   Westernmost_Longitude: 123.4
+#   Elevation_m: 3240
+#--------------------
+# Data_Collection  
+#   Collection_Name: DomeConcordia CH4 Monnin2001
+#   Earliest_Year: 21682
+#   Most_Recent_Year: 9050
+#   Time_Unit: cal yr BP
+#   Core_Length_m: 
+#   Parameter_Keywords: atmospheric gas
+#   Notes:
+#--------------------
+# Chronology_Information
+#   Chronology: 
+#
+#--------------------
+# Variables  
+#
+# PaST_Thesaurus_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/PaST-thesaurus/SKOS/past-thesaurus-v1.0.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Variables format: Short_name <tab> what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information
+#
+## depth_m	depth,,,meter,,ice cores;climate forcing,,,N,
+## gas_ageBP	gas age,,,calendar year before present,,ice cores;climate forcing,,,N,EDC1 time scale from Schwander et al. 2001
+## CH4	methane,bulk atmosphere,,parts per billion,,ice cores;climate forcing,,,N,
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+depth_m	gas_ageBP	CH4
+352.04	9050	670.0
+355.765	9169	664.7
+357.415	9222	665.0
+359.72	9295	663.3
+362.915	9397	673.7
+369.07	9589	682.3
+371.165	9655	683.3
+374.57	9761	676.3
+377.215	9844	682.3
+379.52	9916	685.0
+381.715	9985	678.0
+385.53	10106	698.0
+388.28	10194	678.0
+389.97	10248	688.0
+393.715	10368	661.3
+396.43	10456	652.0
+399.215	10548	666.0
+401.52	10624	680.7
+404.715	10730	673.3
+407.43	10820	703.0
+411.315	10950	633.3
+412.965	11006	654.3
+415.27	11084	664.7
+418.465	11193	559.0
+421.32	11293	469.0
+427.27	11513	467.7
+429.015	11582	477.3
+431.665	11692	482.7
+434.52	11817	462.3
+437.165	11938	466.7
+443.32	12235	542.0
+445.965	12368	627.0
+448.27	12487	643.3
+450.915	12622	646.0
+453.77	12766	661.7
+456.97	12924	653.3
+460.33	13090	645.7
+463.565	13249	618.7
+464.77	13309	613.0
+467.495	13442	630.0
+469.72	13551	611.7
+473.13	13715	578.3
+479.62	14018	464.7
+484.02	14226	461.0
+487.18	14384	459.3
+489.965	14529	473.3
+491.72	14622	475.7
+496.015	14852	451.0
+498.87	15010	451.7
+501.515	15163	456.0
+504.37	15333	455.0
+506.465	15462	473.3
+509.18	15633	418.7
+511.965	15813	427.3
+514.68	15998	404.7
+519.84	16369	394.8
+525.82	16844	371.3
+528.465	17067	383.7
+531.18	17305	366.3
+532.865	17457	371.3
+536.68	17808	375.3
+539.465	18068	371.0
+543.8475	18480	378.7
+548.78	18942	365.7
+550.465	19100	377.0
+552.85	19323	353.8
+555.965	19615	375.7
+557.72	19779	375.3
+561.465	20131	366.7
+564.18	20383	378.3
+569.68	20891	353.7
+572.47	21151	357.0
+575.87	21468	357.3
+578.17	21682	355.3

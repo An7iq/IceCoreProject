@@ -1,0 +1,185 @@
+﻿# EPICA Dome C Ice Core Terminations I and II Air Isotopes and CO2 Data 
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:15077
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc2013co2.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2013-09-16
+#--------------------
+# Title
+#	Study_Name: EPICA Dome C Ice Core Terminations I and II Air Isotopes and CO2 Data 
+#--------------------
+# Investigators
+#       Investigators: Landais, A.; Dreyfus, G.B.; Capron, E.; Jouzel, J.; Masson-Delmotte, V.; Roche, D.M.; Prié, F.; Caillon, N.; Chappellaz, J.; Leuenberger, M.; Lourantou, A.; Parrenin, F.; Raynaud, D.; Teste, G. 
+#--------------------
+# Description_and_Notes
+#	Description: This dataset gathers published and new data of d15N, d18Oatm and CO2 from the EPICA Dome C ice core over Terminations I and II.
+#                    
+#--------------------
+# Publication 
+#       Authors: Landais, A., Dreyfus, G.B., Capron, E., Jouzel, J., Masson-Delmotte, V., Roche, D.M., Prié, F., Caillon, N., Chappellaz, J., Leuenberger, M., Lourantou, A., Parrenin, F., Raynaud, D., Teste, G.
+#       Published_Date_or_Year: 2013-12-01 
+#       Published_Title: Two-phase change in CO2, Antarctic temperature and global climate during Termination II
+#       Journal_Name: Nature Geoscience
+#       Volume: 6
+#       Edition: 
+#       Issue: 12
+#       Pages: 1062-1065
+#       DOI: 10.1038/ngeo1985
+#       Online_Resource: http://www.nature.com/ngeo/journal/v6/n12/abs/ngeo1985.html
+#       Full_Citation: 
+#       Abstract: The end of the Last Glacial Maximum (Termination I), roughly 20 thousand years ago (ka), was marked by cooling in the Northern Hemisphere, a weakening of the Asian monsoon, a rise in atmospheric CO2 concentrations and warming over Antarctica. The sequence of events associated with the previous glacial-interglacial transition (Termination II), roughly 136 ka, is less well constrained. Here we present high-resolution records of atmospheric CO2 concentrations and isotopic composition of N2 - an atmospheric temperature proxy - from air bubbles in the EPICA Dome C ice core that span Termination II. We find that atmospheric CO2 concentrations and Antarctic temperature started increasing in phase around 136 ka, but in a second phase of Termination II, from 130.5 to 129 ka, the rise in atmospheric CO2 concentrations lagged that of Antarctic temperature unequivocally. We suggest that during this second phase, the intensification of the low-latitude hydrological cycle resulted in the development of a CO2 sink, which counteracted the CO2 outgassing from the Southern Hemisphere oceans over this period.
+#------------------
+# Publication 
+#       Authors: Gabrielle B. Dreyfus, Jean Jouzel, Michael L. Bender, Amaëlle Landais, Valérie Masson-Delmotte, Markus Leuenberger
+#       Published_Date_or_Year: 2010-01-01    
+#       Published_Title: Firn processes and d15N: potential for a gas-phase climate proxy
+#       Journal_Name: Quaternary Science Reviews
+#       Volume: 29
+#       Edition: 
+#       Issue: 1-2 
+#       Pages: 28-42
+#       DOI: 10.1016/j.quascirev.2009.10.012
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S0277379109003576
+#       Full_Citation: 
+#       Abstract: In order to quantify the sequence of events between changes in atmospheric composition and climate changes recorded in ice cores, we must accurately account for the age difference between ice and gas at a given depth. This gas age-ice age difference depends on the age of the ice at the bottom of the firn layer, where the bubbles are closed-off. Firn densification models are used to calculate how this age difference varied in the past, but have an uncertainty on the order of 1000 years for central Antarctic sites. Here we explore the possibility that d15N of N2 is a gas phase proxy of climate, which can be used to synchronize gas and ice records. We present the d15N record from the EPICA Dome C (EDC) ice core covering the last three glacial terminations and five glacial-interglacial cycles between 300 and 800 ka. Previous studies have shown that gravitational settling enriches d15N as a function of the diffusive column height in the firn. If densification models' prediction of deeper firn close-off under glacial conditions is correct, then we would expect heavier d15N during glacial periods, and a negative correlation with temperature. Instead, EDC d15N is positively correlated with the ice deuterium content, a proxy for temperature, as previously reported at Vostok, Dome Fuji, and EPICA Dronning Maud Land. We propose a mechanism that links accumulation rate, firn permeability, and convective mixing in the top meters of the firn to explain this correlation between d15N and ice deuterium content. The tightest correlation is observed over glacial terminations, supporting the idea that d15N is a property in the gas phase that records changes in surface conditions linked to deglacial warming.
+#------------------
+# Publication 
+#       Authors: A. Lourantou, J. Chappellaz, J.-M. Barnola, V. Masson-Delmotte, D. Raynaud
+#       Published_Date_or_Year: 2010-08-01  
+#       Published_Title: Changes in atmospheric CO2 and its carbon isotopic ratio during the penultimate deglaciation
+#       Journal_Name: Quaternary Science Reviews
+#       Volume: 29
+#       Edition: 
+#       Issue: 17-18
+#       Pages: 1983-1992
+#       DOI: 10.1016/j.quascirev.2010.05.002
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S027737911000137X
+#       Full_Citation: 
+#       Abstract: The largest natural increases in atmospheric CO2 concentration as recorded in ice cores occur when the Earth climate abruptly shifts from a glacial to an interglacial state. Open questions remain regarding the processes at play, the sequences of events and their similarities along different glacial-interglacial transitions. Here we provide new combined data of atmospheric CO2 and its carbon isotopic ratio (d13CO2) for the penultimate glacial-interglacial transition (Termination II) from the Antarctic EPICA Dome C ice core. Together with the strongest Antarctic warming, this transition bears the largest CO2 increase (104 ppmv) of the last nine Terminations, ending with an overshoot of 21 ppmv occurring within ~300 y and leading to higher levels than those of the late pre-industrial Holocene. The full CO2 rise is accompanied by an overall decrease of the d13CO2 minimum values, on which three positive excursions are superimposed. Peak-to-peak d13CO2 changes in our record can reach ~1‰. The ice core atmospheric d13CO2 appears more depleted by ~0.2‰ during Termination II compared to Termination I, paralleling a similar carbon isotopic depletion recorded in marine data. During both terminations, most of CO2 and d13CO2 variations are attributed to southern ocean stratification breakdown and decreased efficiency of the biological pump. Compared to Termination I, Termination II ice core data point to different timings of decrease in iron supply and sea-ice extent, suggesting that they could account for distinct patterns of the carbon cycle.
+#------------------
+# Publication 
+#       Authors: G.B. Dreyfus, F. Parrenin, B. Lemieux-Dudon, G. Durand, V. Masson-Delmotte, J. Jouzel, J.-M. Barnola, L. Panno, R. Spahni, A. Tisserand, U. Siegenthaler, and M. Leuenberger
+#       Published_Date_or_Year: 2007-06-21     
+#       Published_Title: Anomalous flow below 2700 m in the EPICA Dome C ice core detected using d18O of atmospheric oxygen measurements
+#       Journal_Name: Climate of the Past
+#       Volume: 3
+#       Edition: 
+#       Issue: 2
+#       Pages: 341-353
+#       DOI: 10.5194/cp-3-341-2007
+#       Online_Resource: http://www.clim-past.net/3/341/2007/cp-3-341-2007.html
+#       Full_Citation: 
+#       Abstract: While there are no indications of mixing back to 800 000 years in the EPICA Dome C ice core record, comparison with marine sediment records shows significant differences in the timing and duration of events prior to stage 11 (~430 ka, thousands of years before 1950). A relationship between the isotopic composition of atmospheric oxygen (d18O of O2, noted d18Oatm) and daily northern hemisphere summer insolation has been observed for the youngest four climate cycles. Here we use this relationship with new d18O of O2 measurements to show that anomalous flow in the bottom 500 m of the core distorts the duration of events by up to a factor of 2. By tuning d18Oatm to orbital precession we derive a corrected thinning function and present a revised age scale for the interval corresponding to Marine Isotope Stages 11-20 in the EPICA Dome C ice core. Uncertainty in the phasing of d18Oatm with respect to insolation variations in the precession band limits the accuracy of this new agescale to ±6 kyr (thousand of years). The previously reported ~30 kyr duration of interglacial stage 11 is unchanged. In contrast, the duration of stage 15.1 is reduced by a factor of 2, from 31 to 16 kyr.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: European Union Seventh Framework programme (FP7/2007-2013) 
+#       Grant: 243908
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: French ANBR CITRONNIER
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: EPICA Dome C
+#       Location: Antarctica
+#	Country:  
+#	Northernmost_Latitude: -75.1
+# 	Southernmost_Latitude: -75.1 
+# 	Easternmost_Longitude: 123.4
+# 	Westernmost_Longitude: 123.4 
+# 	Elevation: 3240 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: EDC2013CO2
+#	Earliest_Year: 153200
+#	Most_Recent_Year: 124900
+#	Time_Unit: Cal Year BP
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+# 
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+# Termination II CO2 (ppmv)
+# 
+## depth_m	depth, , , m ice equivalent, , , , ,N
+## co2_ppm	CO2 concentration, , , ppmv, , , , ,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:  
+
+depth_m	co2_ppm
+1669.81	277.6
+1675.3	277.3
+1678.06	271.7
+1680.79	272.6
+1686.3	273.5
+1691.81	267.2
+1697.3	271.6
+1702.79	274.8
+1705.56	277.3
+1708.32	284.5
+1713.8	290.2
+1719.31	290.5
+1724.81	269.4
+1730.3	264.8
+1733.09	262.0
+1735.81	263.4
+1741.32	261.7
+1744.6	256.2
+1750.14	250.6
+1755.6	243.2
+1760.55	237.9
+1766.6	231.3
+1772.09	225.3
+1774.31	221.5
+1779.8	210.5
+1779.8	216.0
+1785.3	205.7
+1785.3	200.3
+1788.06	204.3
+1790.79	199.3
+1790.8	200.1
+1796.3	193.5
+1796.85	200.5
+1801.8	199.2
+1801.81	196.8
+1804.55	193.4
+1807.3	191.1
+1810.6	189.2
+1812.81	186.4
+1815.55	184.1
+1815.55	189.4
+1816.1	188.7
+1818.3	193.4
+1821.6	193.1
+1821.6	192.4
+1823.8	193.0
+1845.8	193.8
+1867.79	200.6
+1870.55	203.0
+1873.31	197.2
+

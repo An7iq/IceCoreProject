@@ -1,0 +1,146 @@
+﻿# EPICA Dome C - Nitrous Oxide, CO2, and CH4 Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed. 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page:  https://www.ncei.noaa.gov/access/paleo-search/study/2457
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-2457.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Ice cores
+#
+# Dataset_DOI: 10.25921/f11s-s467
+#
+# Science_Keywords:
+#--------------------
+# Resource_Links
+#   
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/dc_co2_hol_fl02-noaa.txt
+#   Data_Download_Description: NOAA Template File; Atmospheric Carbon Dioxide Data
+#
+#--------------------
+# Contribution_Date
+#    Date: 2002-02-01
+#--------------------
+# File_Last_Modified_Date
+#     Date: 2022-07-21
+#--------------------
+# Title
+#   Study_Name: EPICA Dome C - Nitrous Oxide, CO2, and CH4 Data
+#--------------------
+# Investigators
+#   Investigators: Flückiger, J.; Monnin, E.; Stauffer, B.; Schwander, J.; Stocker, T.F.; Chappellaz, J.A.; Raynaud, D.; Barnola, J.-M.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: 
+#--------------------
+# Publication 
+#   Authors: Flückiger, J., E. Monnin, B. Stauffer, J. Schwander, T.F. Stocker, J. Chappellaz, D. Raynaud, J.-M. Barnola
+#   Published_Date_or_Year: 2002-03-01
+#   Published_Title: High resolution Holocene N2O ice core record and its relationship with CH4 and CO2
+#   Journal_Name: Global Biogeochemical Cycles
+#   Volume: 16
+#   Edition: 
+#   Issue: 1
+#   Pages: 
+#   Report_Number: 1010
+#   DOI: 10.1029/2001GB001417
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: Nitrous oxide (N2O) concentration records exist for the last 1000 years and for time periods of rapid climatic changes like the transition from the last glacial to today's interglacial and for one of the fast climate variations during the last ice age. Little is known, however, about possible N2O variations during the more stable climate of the present interglacial (Holocene) spanning the last 11 thousand years. Here we fill this gap with a high-resolution N2O record measured along the European Project for Ice Coring in Antarctica (EPICA) Dome C Antarctic ice core. On the same ice we obtained high-resolution methane and carbon dioxide records. This provides the unique opportunity to compare variations of the three most important greenhouse gases (after water vapor) without any uncertainty in their relative timing. The CO2 and CH4 records are in good agreement with previous measurements on other ice cores. The N2O concentration started to decrease in the early Holocene and reached minimum values around 8 ka (<260 ppbv) before a slow increase to its preindustrial concentration of ~265 ppbv.
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: 
+#   Grant: 
+#--------------------
+# Site_Information 
+#   Site_Name: EPICA Dome C
+#   Location: Antarctica
+#   Northernmost_Latitude: -75.1
+#   Southernmost_Latitude: -75.1
+#   Easternmost_Longitude: 123.4
+#   Westernmost_Longitude: 123.4
+#   Elevation_m: 3240
+#--------------------
+# Data_Collection  
+#   Collection_Name: EDC CO2 Fluckiger2002
+#   Earliest_Year: 10952
+#   Most_Recent_Year: 435
+#   Time_Unit: cal yr BP
+#   Core_Length_m: 
+#   Parameter_Keywords: atmospheric gas 
+#   Notes:
+#--------------------
+# Chronology_Information
+#   Chronology: 
+#
+#--------------------
+# Variables  
+#
+# PaST_Thesaurus_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/PaST-thesaurus/SKOS/past-thesaurus-v1.0.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Variables format: Short_name <tab> what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information
+#
+## depth_m	depth,,,meter,,ice cores;climate forcing,,,N,
+## gas_ageBP	gas age,,,calendar year before present,,ice cores;climate forcing,,,N,
+## CO2_mean	carbon dioxide,bulk atmosphere,,parts per million,,ice cores;climate forcing,,,N,mean of 6 neighboring samples
+## CO2_1s	carbon dioxide,bulk atmosphere,one standard deviation,parts per million,,ice cores;climate forcing,,,N,one sigma of the mean value (of 6 neighboring samples)
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+depth_m	gas_ageBP	CO2_mean	CO2_1s
+110.5	435	281.9	1.1
+121.5	806	280.1	0.6
+132.5	1175	277.7	1.2
+144.05	1574	280	0.8
+154.5	1948	276.9	0.7
+171	2550	278.9	0.6
+181.445	2918	274.6	0.8
+193	3337	275	0.6
+204	3724	275.4	0.5
+215	4117	272.8	0.8
+221.05	4335	271.1	0.8
+232.05	4737	270.7	0.5
+242.5	5114	267.6	0.6
+253.5	5521	265.9	0.9
+264.5	5921	265.5	0.8
+280.53	6514	262.1	0.9
+292	6930	262.3	0.9
+303	7328	260.1	0.6
+314	7714	260.8	1.4
+325	8118	261.3	0.9
+330.5	8315	261.8	1
+341.5	8697	259.3	1
+349.75	8974	263.8	0.8
+352.58	9067	265.2	0.9
+360.2	9310	263	0.4
+369.55	9604	264.4	0.4
+375.05	9776	264	0.3
+380	9931	265.7	0.5
+385.13	10093	267.5	0.4
+390.45	10263	266	1.1
+396.5	10458	267.6	0.7
+399.28	10550	264.8	0.6
+402	10640	264.8	0.4
+404.78	10732	265.3	0.4
+407.5	10822	264.1	0.7
+411.38	10952	264.5	0.4

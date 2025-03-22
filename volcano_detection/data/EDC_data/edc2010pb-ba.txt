@@ -1,0 +1,177 @@
+EPICA Dome C 217KYr Lead Isotope and Barium Data 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!! 
+
+
+NAME OF DATA SET: EPICA Dome C 217KYr Lead Isotope and Barium Data 
+LAST UPDATE: 8/2011 (Original receipt by WDC Paleo) 
+CONTRIBUTORS: Vallelonga, P., P. Gabrielli, E. Balliana, A. Wegner, 
+B. Delmonte, C. Turetta, G. Burton, F. Vanhaecke, K.J.R. Rosman, 
+S. Hong, C.F. Boutron, P. Cescon, and C. Barbante 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2011-114 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Vallelonga, P., et al. 2011. 
+EPICA Dome C 217KYr Lead Isotope and Barium Data. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2011-114. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+ORIGINAL REFERENCE: 
+Vallelonga, P., P. Gabrielli, E. Balliana, A. Wegner, B. Delmonte, 
+C. Turetta, G. Burton, F. Vanhaecke, K.J.R. Rosman, S. Hong, 
+C.F. Boutron, P. Cescon, and C. Barbante. 2010. 
+Lead isotopic compositions in the EPICA Dome C ice core 
+and Southern Hemisphere Potential Source Areas. 
+Quaternary Science Reviews, Vol. 29, Issues 1-2, pp. 247-255,
+January 2010.  doi:10.1016/j.quascirev.2009.06.019 
+(EPICA publication no. 226)
+
+ABSTRACT: 
+A record of Pb isotopic compositions and Pb and Ba concentrations 
+are presented for the EPICA Dome C ice core covering the past 220 ky, 
+indicating the characteristics of dust and volcanic Pb deposition 
+in central East Antarctica. Lead isotopic compositions are also 
+reported in a suite of soil and loess samples from the Southern 
+Hemisphere (Australia, Southern Africa, Southern South America, 
+New Zealand, Antarctica) in order to evaluate the provenance 
+of dust present in Antarctic ice. Lead isotopic compositions in 
+Dome C ice support the contention that Southern South America 
+was an important source of dust in Antarctica during the last 
+two glacial maxima, and furthermore suggest occasional dust 
+contributions from local Antarctic sources. The isotopic signature 
+of Pb in Antarctic ice is altered by the presence of volcanic Pb, 
+inhibiting the evaluation of glacial-interglacial changes in dust 
+sources and the evaluation of Australia as a source of dust 
+to Antarctica. Consequently, an accurate evaluation of the 
+predominant source(s) of Antarctic dust can only be obtained 
+from glacial maxima, when dust-Pb concentrations were greatest. 
+These data confirm that volcanic Pb is present throughout 
+Antarctica and is emitted in a physical phase that is free 
+from Ba, while dust Pb is transported within a matrix 
+containing Ba and other crustal elements.
+
+
+GEOGRAPHIC REGION: Antarctica 
+PERIOD OF RECORD: 217 - 2 KYrBP 
+
+FUNDING SOURCES: 
+Australian Research Council (DP0345625), Australian Antarctic 
+Science Advisory Committee, Glaciology Section (No. 1092, 2334),  
+European Union Marie Curie IIF Fellowship (MIF1-CT-2006-039529, 
+TDICOSO), European Project for Ice Coring in Antarctica (EPICA). 
+
+
+
+DESCRIPTION: 
+EPICA Dome C, Antarctica ice core Pb and Ba concentrations, 
+and Pb isotope ratios, for the period 217 - 2 KYrBP. 
+
+Sample ages calculated according to EDC3 chronology reported by 
+Parrenin et al. Climate of the Past Discussions, 2007, 3(2), pp.575-606. 
+dD values from Jouzel et al. Science, 2007, v.317, pp.793-796. 
+
+EPICA Dome C, Antarctica ice core:  75.1°S, 123.35°E, 3233 m asl 
+
+
+
+
+DATA: 
+Table 1. Lead and Ba concentrations and Pb isotopic compositions from EPICA Dome C ice core samples.
+Uncertainties in the isotope ratios are 95% confidence intervals.
+
+Column 1: Depth (m) 
+Column 2: Age (ky BP) 
+Column 3: dD (per mil) 
+Column 4: Lead 206/Lead 207 (206Pb/207Pb) 
+Column 5: Lead 206/Lead 207 (206Pb/207Pb) Error 
+Column 6: Lead 208/Lead 207 (208Pb/207Pb) 
+Column 7: Lead 208/Lead 207 (208Pb/207Pb) Error 
+Column 8: Lead 206/Lead 204 (206Pb/204Pb) 
+Column 9: Lead 206/Lead 204 (206Pb/204Pb) Error 
+Column 10: Lead concentration (Pb conc.) [pg/g] 
+Column 11: Barium concentration (Ba conc.) [pg/g] 
+Column 12: Pb/Ba ratio (by wt.) 
+
+Depth        Age       dD   206Pb/207Pb   error  208Pb/207Pb    error  206Pb/204Pb    error   Pb-conc. Ba-conc.  Pb/Ba 
+86.6        2.01     -398      1.197       0.01      2.466      0.014       18.1        0.8      0.3      6.9     0.04
+86.9        2.02     -398      1.184      0.014      2.459      0.014       18.7        0.5      0.2      5.6     0.03
+229.1       6.94     -399      1.197      0.011      2.479      0.012       18.8        0.3      0.2      7.3     0.03
+229.4       6.95     -399      1.195      0.022      2.467      0.032         19        1.7      0.2      6.3     0.03
+316        10.27     -389      1.222      0.021      2.495       0.04       19.1        0.9      0.2      7.6     0.02
+316.3      10.28     -389      1.194      0.024       2.46      0.026         19        1.7      0.2      6.7     0.03
+379.2      12.81     -409       1.22      0.009      2.486      0.011       19.7        0.8      0.7     13.2     0.05
+379.5      12.82     -409      1.228      0.014      2.501      0.024       19.4        1.1      0.3      5.4     0.05
+405.6       14.2     -415      1.204      0.006      2.476      0.014       18.7        0.2      0.7     17.3     0.04
+405.9      14.22     -415      1.217      0.009      2.481      0.011       19.3        0.5      0.8     16.5     0.05
+419.4      14.91     -405      1.203      0.009      2.485      0.015       18.8        0.4      0.3     13.6     0.03
+432.6      15.61     -411      1.197      0.007      2.487       0.01       18.9        0.3      0.4     13.2     0.03
+432.9      15.63     -411        1.2      0.008      2.489      0.011       18.7        0.6      0.4     15.9     0.03
+461.2      17.38     -434      1.234      0.008      2.488      0.008       19.1        0.5      6.9     82.4     0.08
+461.5       17.4     -434      1.226      0.002      2.488      0.009         19        0.4      6.1      107     0.06
+471.1      18.13     -439      1.207      0.007      2.473      0.007       18.6        0.3     12.5      240     0.05
+471.4      18.16     -439      1.257      0.004      2.507      0.008       19.8        0.6     29.5      176     0.17
+488.7      19.63     -442        1.2      0.007      2.468      0.012       18.5        0.5     13.9      316     0.04
+489        19.66     -442      1.193      0.004      2.478      0.008       18.7        0.2     10.8      352     0.03
+515.6      21.94     -442      1.199      0.014      2.465      0.019       18.5        0.3     14.3      467     0.03
+515.9      21.97     -442      1.198      0.006      2.478      0.008       18.5        0.2     13.1    400.2     0.03
+573.9      27.01     -444        1.2      0.005      2.459      0.008       18.6        0.5     10.9    274.9     0.04
+574.2      27.03     -444      1.207      0.008      2.465      0.014       17.7        0.4     16.1    362.3     0.04
+598.1      29.09     -437      1.206      0.005      2.486      0.009         19        0.6      9.7    266.7     0.04
+598.4      29.12     -437        1.2      0.005      2.475      0.007       18.7        0.2      8.2    230.8     0.04
+653.1      33.66     -435      1.196      0.006      2.464       0.01       18.4        0.5      4.2    119.5     0.04
+653.4      33.68     -435      1.202      0.007       2.47      0.011       18.8        0.3        4    120.6     0.03
+653.7      33.71     -438      1.202      0.006      2.444      0.017       17.5        0.7      5.2    132.8     0.04
+654        33.73     -438      1.205      0.003      2.477      0.013       18.7        0.3      8.2    185.4     0.04
+680.9      35.97     -438      1.208      0.003      2.479      0.005       18.8        0.2      5.7    118.2     0.05
+708.7      38.14     -427      1.245      0.005      2.492      0.015       19.2        0.1      3.1     39.1     0.08
+709        38.16     -427      1.243      0.004      2.503      0.006       19.5        0.2      1.8     29.9     0.06
+735.6      40.37     -439      1.196      0.007      2.461      0.007       18.6        0.4      4.2    136.2     0.03
+735.9       40.4     -439      1.198      0.005      2.465      0.009       18.6        0.7      4.4      151     0.03
+763.1       42.8     -432        1.2      0.004      2.464      0.008       18.8        0.5      2.1     71.3     0.03
+763.4      42.82     -432      1.196      0.008       2.47       0.01       18.9        0.4      2.9     96.2     0.03
+818.1      47.17     -434      1.206      0.004      2.467      0.008       18.6        0.3      5.4    126.5     0.04
+818.4       47.2     -434      1.201      0.003      2.463      0.009       18.5        0.5        5    151.6     0.03
+900.6      53.83     -429      1.224      0.004      2.482      0.007       19.3        0.1     17.4    436.1     0.04
+900.9      53.85     -429      1.232      0.004      2.485      0.007         19        0.4      9.2    173.8     0.05
+983.1      60.65     -437      1.209      0.003       2.49      0.006         19        0.2      7.2    176.8     0.04
+983.4      60.67     -437      1.214      0.006      2.484      0.004       18.3        0.6      9.8    225.4     0.04
+1010.6     63.43     -439      1.208      0.004      2.481      0.009       18.9        0.2      7.5    200.9     0.04
+1010.9     63.45     -439      1.196      0.003      2.464      0.006       18.5        0.4     13.9    359.8     0.04
+1093.1     71.64     -423      1.231      0.005      2.496      0.008       19.2        0.3      1.1       16     0.07
+1093.4     71.66     -423      1.238      0.004      2.487      0.012       19.1        0.4      3.2     29.5     0.11
+1148.1     76.57     -426        1.2      0.004      2.473      0.008       18.5        0.4      1.5     43.6     0.04
+1148.4      76.6     -426      1.239      0.004      2.507      0.007       18.8        0.3        4       47     0.08
+1203.1     81.05     -412      1.254      0.006      2.507      0.009         19        0.2      3.4     21.5     0.16
+1203.4     81.07     -412      1.241      0.009       2.49      0.011       19.4        0.3      1.4     16.4     0.09
+1258.1        86     -424      1.196      0.008      2.474      0.006       18.3        0.4        2     51.1     0.04
+1258.4     86.03     -424      1.222      0.006      2.477      0.007         19        0.5      3.5     60.5     0.06
+1313.1     91.43     -421      1.217      0.005      2.478      0.008       18.9        0.3      0.8     14.1     0.06
+1313.4     91.46     -421      1.204      0.005      2.461       0.01       18.1        0.3      0.6     16.2     0.04
+1423.1    102.25     -424       1.23      0.008      2.472      0.006       18.9        0.4      1.5     30.2     0.05
+1423.4    102.28     -424      1.225      0.003      2.477       0.01       18.9        0.5      3.2     42.8     0.07
+1533.1    114.12     -401      1.229       0.01      2.487      0.009       19.3        0.3      0.4     11.2     0.03
+1533.4    114.14     -401      1.211       0.01      2.497      0.011       19.1        0.3      0.3      7.7     0.04
+1643.1    122.81     -387       1.23      0.008        2.5      0.009       19.5        0.3      0.5     11.8     0.04
+1643.4    122.83     -387      1.208       0.01      2.475      0.018       19.2        0.7      0.5     14.2     0.04
+1753.1    131.85     -412      1.251      0.007      2.502      0.006       18.8        0.2      2.9     22.3     0.13
+1753.4    131.89     -412      1.237      0.006      2.488       0.01       18.6        1.2      2.6     30.4     0.09
+1863.1    152.18     -438      1.204      0.003      2.468      0.006       18.6        0.2     18.3    370.5     0.05
+1863.4    152.24     -438      1.193      0.003      2.459      0.009       18.6          1     18.9    447.3     0.04
+1973.1    174.42     -439        1.2      0.004       2.47      0.009       18.7        0.3      7.3    191.7     0.04
+1973.4    174.49     -439      1.192      0.005      2.462      0.009       18.6        0.2      9.7    150.4     0.06
+2050.1    191.28     -426      1.212      0.004      2.477      0.019       18.2        0.6      2.1     59.1     0.04
+2050.4    191.34     -426      1.208      0.004      2.477      0.006       18.9        0.4      1.5     46.8     0.03
+2094.1    198.89     -406       1.22      0.018      2.483      0.028         19        0.7      0.2      6.7     0.03
+2094.4    198.94     -406      1.214      0.017      2.484      0.017       18.8        0.6      0.2        8     0.02
+2138.1    207.17     -405      1.211      0.008      2.487       0.01         19        0.2      0.3      8.7     0.04
+2138.4    207.22     -405      1.224      0.008      2.479      0.008       19.3        0.7      0.5      8.8     0.06
+2193.1    216.99     -418      1.214      0.005      2.472      0.007       18.6        0.4      1.3     32.6     0.04
+2193.4    217.05     -418      1.214      0.009      2.476      0.006       19.4          1        2     32.3     0.06
+

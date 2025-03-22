@@ -1,0 +1,22 @@
+/* DATA DESCRIPTION:
+Citation:	Parrenin, Frédéric; Masson-Delmotte, Valerie; Köhler, Peter; Raynaud, Dominique; Paillard, Didier; Schwander, Jakob; Barbante, Carlo; Landais, Amaëlle; Wegner, Anna; Jouzel, Jean (2013): (Table S1) Tie points between the EDC3 ice age scale and the ice age scale used in this study [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.810195, 
+	In supplement to: Parrenin, F et al. (2013): Synchronous change of atmospheric CO2 and Antarctic temperature during the last deglacial warming. Science, 339(6123), 1060-1063, https://doi.org/10.1126/science.1226368
+Project(s):	European Project for Ice Coring in Antarctica (EPICA) (URI: https://en.wikipedia.org/wiki/European_Project_for_Ice_Coring_in_Antarctica)
+Funding:	Fifth Framework Programme (FP5), grant/award no. EVK2-CT-2000-00077: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/EVK2-CT-2000-00077)
+	Fourth Framework Programme (FP4), grant/award no. ENV4980702: European Project for Ice Coring in Antarctica (URI: https://cordis.europa.eu/project/id/ENV4980702)
+Coverage:	LATITUDE: -75.100000 * LONGITUDE: 123.350000
+	DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00
+	MINIMUM ELEVATION: 3233.0 m * MAXIMUM ELEVATION: 3233.0 m
+Event(s):	EDC (EPICA Dome C) (URI: https://en.wikipedia.org/wiki/Dome_C) * LATITUDE: -75.100000 * LONGITUDE: 123.350000 * DATE/TIME START: 1993-01-01T00:00:00 * DATE/TIME END: 2004-12-31T00:00:00 * ELEVATION: 3233.0 m * Recovery: 3300 m * LOCATION: Dome C, Antarctica * CAMPAIGN: Dome C * METHOD/DEVICE: Ice drill (ICEDRILL) * COMMENT: Drill site is 56 km from the site of a previous Dome C core that provided records extending into the last glacial period, and 560 km from the site of the Vostok cores. The completion of the Dome C core was delayed when the first drilling became stuck at 788 m in 1999 (EDC96).
+Parameter(s):	Tie point (Tie point) * PI: Parrenin, Frédéric (https://orcid.org/0000-0002-9489-3991, frederic.parrenin@univ-grenoble-alpes.fr)
+	Age model [ka] (Age model) * PI: Parrenin, Frédéric (https://orcid.org/0000-0002-9489-3991, frederic.parrenin@univ-grenoble-alpes.fr) * COMMENT: EDC3 age (yr b1950)
+	Age model [ka] (Age model) * PI: Parrenin, Frédéric (https://orcid.org/0000-0002-9489-3991, frederic.parrenin@univ-grenoble-alpes.fr) * COMMENT: Age this study (yr b1950)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	15 data points
+*/
+Tie point	Age model [ka] (EDC3 age (yr b1950))	Age model [ka] (Age this study (yr b1950))
+10Be/14C synchro	5.28	5.28
+Onset of Holocene	11.51	11.60
+Onset of Younger-Dryas	12.81	12.81
+Onset of Bolling	14.40	14.68
+Laschamp event	41.20	41.20

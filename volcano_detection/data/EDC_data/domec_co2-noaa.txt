@@ -1,0 +1,201 @@
+﻿# EPICA Dome C - Carbon Dioxide and Methane Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed. 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page:  https://www.ncei.noaa.gov/access/paleo-search/study/2449
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-icecore-2449.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Ice Cores
+#
+# Dataset_DOI: 10.25921/ggj5-vt17
+#
+# Science_Keywords:
+#--------------------
+# Resource_Links
+#   
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/domec_co2-noaa.txt
+#   Data_Download_Description: NOAA Template File; Atmospheric Carbon Dioxide Data
+#
+#--------------------
+# Contribution_Date
+#    Date: 2001-01-01
+#--------------------
+# File_Last_Modified_Date
+#     Date: 2022-07-21
+#--------------------
+# Title
+#   Study_Name: EPICA Dome C - Carbon Dioxide and Methane Data
+#--------------------
+# Investigators
+#   Investigators: Monnin, E.; Indermühle, A.; Dällenbach, A.; Flückiger, J.; Stauffer, B.; Stocker, T.F.; Raynaud, D.; Barnola, J.-M.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: A record of atmospheric CO2 concentration during the transition from the Last Glacial Maximum to the Holocene, obtained from the Dome Concordia (Antarctica) ice core, reveals that an increase of 76 parts per million by volume (ppmv) occurred over a period of 6 thousand years in four clearly distinguishable intervals. The close correlation between CO2 concentration and Antarctic temperature indicates that the Southern Ocean played an important role in causing the CO2 increase. However, the similarity of changes in CO2 concentration and variations of atmospheric methane concentration suggests that processes in the tropics and in the northern hemisphere, where the main sources for methane are located, also had significant effects on atmospheric CO2 concentrations.
+#--------------------
+# Publication 
+#   Authors: Monnin, E., A. Indermühle, A. Dällenbach, J. Flückiger, B. Stauffer, T. F. Stocker, D. Raynaud, J.-M. Barnola
+#   Published_Date_or_Year: 2001
+#   Published_Title: Atmospheric CO2 Concentrations over the Last Glacial Termination 
+#   Journal_Name: Science
+#   Volume: 291
+#   Edition: 
+#   Issue: 
+#   Pages: 112-114
+#   Report_Number: 
+#   DOI: 10.1126/science.291.5501.112
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: A record of atmospheric carbon dioxide (CO2) concentration during the transition from the Last Glacial Maximum to the Holocene, obtained from the Dome Concordia, Antarctica, ice core, reveals that an increase of 76 parts per million by volume occurred over a period of 6000 years in four clearly distinguishable intervals. The close correlation between CO2 concentration and Antarctic temperature indicates that the Southern Ocean played an important role in causing the CO2 increase. However, the similarity of changes in CO2 concentration and variations of atmospheric methane concentration suggests that processes in the tropics and in the Northern Hemisphere, where the main sources for methane are located, also had substantial effects on atmospheric CO2 concentrations.
+#--------------------
+# Publication 
+#   Authors: Schwander, J., J. Jouzel, C. U. Hammer, J.-R. Petit, R. Udisti, E. Wolff
+#   Published_Date_or_Year: 2001-11-15
+#   Published_Title: A tentative chronology for the EPICA Dome Concordia ice core
+#   Journal_Name: Geophysical Research Letters
+#   Volume: 28
+#   Edition: 
+#   Issue: 22
+#   Pages: 4243-4246
+#   Report_Number: 
+#   DOI: 10.1029/2000GL011981
+#   Publication_Place: 
+#   Publisher:
+#   ISBN: 
+#   Online_Resource: 
+#   Other_Reference_Details: 
+#   Full_Citation:
+#   Abstract: A tentative age scale (EDC1) for the last 45 kyr is established for the new 788-m EPICA Dome C ice core using a simple ice flow model. The age of volcanic eruptions, the end of the Younger Dryas event, and the estimated depth and age of elevated 10Be, about 41 kyr ago were used to calibrate the model parameters. The uncertainty of EDC1 is estimated to ±10 yr for 0 to 700 yr BP, up to ±200 yr back to 10 kyr BP, and up to ±2 kyr back to 41 kyr BP. The age of the air in the bubbles is calculated with a firn densification model. In the Holocene the air is about 2000 yr younger than the ice and about 5500 yr during the last glacial maximum.
+#--------------------
+# Funding_Agency 
+#   Funding_Agency_Name: 
+#   Grant: 
+#--------------------
+# Site_Information 
+#   Site_Name: EPICA Dome C
+#   Location: Antarctica
+#   Northernmost_Latitude: -75.1
+#   Southernmost_Latitude: -75.1
+#   Easternmost_Longitude: 123.4
+#   Westernmost_Longitude: 123.4
+#   Elevation_m: 3240
+#--------------------
+# Data_Collection  
+#   Collection_Name: DomeConcordia CO2 Monnin2001
+#   Earliest_Year: 21676
+#   Most_Recent_Year: 9067
+#   Time_Unit: cal yr BP
+#   Core_Length_m: 
+#   Parameter_Keywords: atmospheric gas
+#   Notes:
+#--------------------
+# Chronology_Information
+#   Chronology: 
+#
+#--------------------
+# Variables  
+#
+# PaST_Thesaurus_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/PaST-thesaurus/SKOS/past-thesaurus-v1.0.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Variables format: Short_name <tab> what,material,error,units,seasonality,data_type,detail,method,data_format,additional_information
+#
+## depth_m	depth,,,meter,,ice cores;climate forcing,,,N,
+## gas_ageBP	gas age,,,calendar year before present,,ice cores;climate forcing,,,N,EDC1 time scale from Schwander et al. 2001
+## CO2_mean	carbon dioxide,bulk atmosphere,,parts per million,,ice cores;climate forcing,averaged,,N,mean of 6 neighboring samples
+## CO2_1s	carbon dioxide,bulk atmosphere,one standard deviation,parts per million,,ice cores;climate forcing,,,N,one sigma of the mean value (of 6 neighboring samples)
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values:
+depth_m	gas_ageBP	CO2_mean	CO2_1s
+352.580	9067	265.2	0.9
+360.195	9310	263.0	0.4
+369.545	9604	264.4	0.4
+375.045	9776	264.0	0.3
+379.995	9931	265.7	0.5
+385.125	10093	267.5	0.4
+390.445	10263	266.0	1.1
+396.495	10458	267.6	0.7
+399.280	10550	264.8	0.6
+401.995	10640	264.8	0.4
+404.780	10732	265.3	0.4
+407.495	10822	264.1	0.7
+411.380	10952	264.5	0.4
+413.030	11008	264.0	0.5
+415.730	11099	265.2	0.8
+418.530	11195	260.8	0.5
+421.795	11310	253.9	0.6
+427.330	11515	249.7	0.4
+429.495	11602	250.7	0.9
+431.730	11695	245.3	1.1
+434.995	11838	246.6	0.5
+437.230	11941	243.2	0.4
+443.795	12258	237.5	0.5
+446.030	12372	237.6	0.6
+448.745	12511	234.2	0.3
+450.980	12625	238.3	1.1
+454.245	12789	237.3	0.5
+457.030	12927	237.9	0.2
+459.895	13068	237.6	0.6
+463.630	13252	236.4	0.9
+465.245	13332	239.2	0.5
+467.450	13440	238.6	0.6
+470.195	13574	238.6	0.3
+473.055	13711	239.1	0.4
+479.705	14022	228.5	0.6
+484.100	14230	228.4	0.7
+487.245	14387	226.1	0.6
+490.030	14532	225.2	0.5
+492.195	14647	224.5	0.6
+496.070	14855	222.0	0.8
+499.345	15037	221.0	0.8
+501.580	15166	220.9	0.5
+504.195	15323	219.4	0.6
+506.530	15466	214.0	0.8
+509.245	15637	207.5	0.9
+512.030	15818	207.7	0.5
+514.745	16002	202.9	0.7
+517.530	16199	200.8	1.0
+520.245	16400	195.2	0.3
+523.030	16616	193.9	0.5
+526.295	16883	191.0	0.5
+528.530	17073	188.5	0.7
+531.245	17311	188.5	0.7
+532.930	17463	189.2	0.4
+536.745	17815	187.0	0.2
+539.530	18074	188.6	0.5
+542.900	18391	189.4	0.4
+543.345	18433	192.3	0.6
+543.930	18487	188.3	0.6
+548.845	18948	188.7	0.2
+550.510	19104	188.8	0.5
+553.245	19360	190.0	0.8
+556.030	19621	188.0	0.9
+557.890	19795	188.2	0.7
+558.195	19824	195.0	0.7
+561.530	20137	187.8	0.4
+564.260	20390	186.9	0.3
+567.030	20646	186.5	0.3
+569.745	20897	184.7	1.2
+572.530	21156	186.1	0.4
+576.325	21511	185.7	1.3
+578.105	21676	184.4	0.8

@@ -1,0 +1,370 @@
+﻿# EPICA Dome C Ice Core Terminations I and II Air Isotopes and CO2 Data 
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:15077
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc2013d18oatm.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2013-09-16
+#--------------------
+# Title
+#	Study_Name: EPICA Dome C Ice Core Terminations I and II Air Isotopes and CO2 Data 
+#--------------------
+# Investigators
+#       Investigators: Landais, A.; Dreyfus, G.B.; Capron, E.; Jouzel, J.; Masson-Delmotte, V.; Roche, D.M.; Prié, F.; Caillon, N.; Chappellaz, J.; Leuenberger, M.; Lourantou, A.; Parrenin, F.; Raynaud, D.; Teste, G. 
+#--------------------
+# Description_and_Notes
+#	Description: This dataset gathers published and new data of d15N, d18Oatm and CO2 from the EPICA Dome C ice core over Terminations I and II.
+#                    
+#--------------------
+# Publication 
+#       Authors: Landais, A., Dreyfus, G.B., Capron, E., Jouzel, J., Masson-Delmotte, V., Roche, D.M., Prié, F., Caillon, N., Chappellaz, J., Leuenberger, M., Lourantou, A., Parrenin, F., Raynaud, D., Teste, G.
+#       Published_Date_or_Year: 2013-12-01 
+#       Published_Title: Two-phase change in CO2, Antarctic temperature and global climate during Termination II
+#       Journal_Name: Nature Geoscience
+#       Volume: 6
+#       Edition: 
+#       Issue: 12
+#       Pages: 1062-1065
+#       DOI: 10.1038/ngeo1985
+#       Online_Resource: http://www.nature.com/ngeo/journal/v6/n12/abs/ngeo1985.html
+#       Full_Citation: 
+#       Abstract: The end of the Last Glacial Maximum (Termination I), roughly 20 thousand years ago (ka), was marked by cooling in the Northern Hemisphere, a weakening of the Asian monsoon, a rise in atmospheric CO2 concentrations and warming over Antarctica. The sequence of events associated with the previous glacial-interglacial transition (Termination II), roughly 136 ka, is less well constrained. Here we present high-resolution records of atmospheric CO2 concentrations and isotopic composition of N2 - an atmospheric temperature proxy - from air bubbles in the EPICA Dome C ice core that span Termination II. We find that atmospheric CO2 concentrations and Antarctic temperature started increasing in phase around 136 ka, but in a second phase of Termination II, from 130.5 to 129 ka, the rise in atmospheric CO2 concentrations lagged that of Antarctic temperature unequivocally. We suggest that during this second phase, the intensification of the low-latitude hydrological cycle resulted in the development of a CO2 sink, which counteracted the CO2 outgassing from the Southern Hemisphere oceans over this period.
+#------------------
+# Publication 
+#       Authors: Gabrielle B. Dreyfus, Jean Jouzel, Michael L. Bender, Amaëlle Landais, Valérie Masson-Delmotte, Markus Leuenberger
+#       Published_Date_or_Year: 2010-01-01    
+#       Published_Title: Firn processes and d15N: potential for a gas-phase climate proxy
+#       Journal_Name: Quaternary Science Reviews
+#       Volume: 29
+#       Edition: 
+#       Issue: 1-2 
+#       Pages: 28-42
+#       DOI: 10.1016/j.quascirev.2009.10.012
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S0277379109003576
+#       Full_Citation: 
+#       Abstract: In order to quantify the sequence of events between changes in atmospheric composition and climate changes recorded in ice cores, we must accurately account for the age difference between ice and gas at a given depth. This gas age-ice age difference depends on the age of the ice at the bottom of the firn layer, where the bubbles are closed-off. Firn densification models are used to calculate how this age difference varied in the past, but have an uncertainty on the order of 1000 years for central Antarctic sites. Here we explore the possibility that d15N of N2 is a gas phase proxy of climate, which can be used to synchronize gas and ice records. We present the d15N record from the EPICA Dome C (EDC) ice core covering the last three glacial terminations and five glacial-interglacial cycles between 300 and 800 ka. Previous studies have shown that gravitational settling enriches d15N as a function of the diffusive column height in the firn. If densification models' prediction of deeper firn close-off under glacial conditions is correct, then we would expect heavier d15N during glacial periods, and a negative correlation with temperature. Instead, EDC d15N is positively correlated with the ice deuterium content, a proxy for temperature, as previously reported at Vostok, Dome Fuji, and EPICA Dronning Maud Land. We propose a mechanism that links accumulation rate, firn permeability, and convective mixing in the top meters of the firn to explain this correlation between d15N and ice deuterium content. The tightest correlation is observed over glacial terminations, supporting the idea that d15N is a property in the gas phase that records changes in surface conditions linked to deglacial warming.
+#------------------
+# Publication 
+#       Authors: A. Lourantou, J. Chappellaz, J.-M. Barnola, V. Masson-Delmotte, D. Raynaud
+#       Published_Date_or_Year: 2010-08-01  
+#       Published_Title: Changes in atmospheric CO2 and its carbon isotopic ratio during the penultimate deglaciation
+#       Journal_Name: Quaternary Science Reviews
+#       Volume: 29
+#       Edition: 
+#       Issue: 17-18
+#       Pages: 1983-1992
+#       DOI: 10.1016/j.quascirev.2010.05.002
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S027737911000137X
+#       Full_Citation: 
+#       Abstract: The largest natural increases in atmospheric CO2 concentration as recorded in ice cores occur when the Earth climate abruptly shifts from a glacial to an interglacial state. Open questions remain regarding the processes at play, the sequences of events and their similarities along different glacial-interglacial transitions. Here we provide new combined data of atmospheric CO2 and its carbon isotopic ratio (d13CO2) for the penultimate glacial-interglacial transition (Termination II) from the Antarctic EPICA Dome C ice core. Together with the strongest Antarctic warming, this transition bears the largest CO2 increase (104 ppmv) of the last nine Terminations, ending with an overshoot of 21 ppmv occurring within ~300 y and leading to higher levels than those of the late pre-industrial Holocene. The full CO2 rise is accompanied by an overall decrease of the d13CO2 minimum values, on which three positive excursions are superimposed. Peak-to-peak d13CO2 changes in our record can reach ~1‰. The ice core atmospheric d13CO2 appears more depleted by ~0.2‰ during Termination II compared to Termination I, paralleling a similar carbon isotopic depletion recorded in marine data. During both terminations, most of CO2 and d13CO2 variations are attributed to southern ocean stratification breakdown and decreased efficiency of the biological pump. Compared to Termination I, Termination II ice core data point to different timings of decrease in iron supply and sea-ice extent, suggesting that they could account for distinct patterns of the carbon cycle.
+#------------------
+# Publication 
+#       Authors: G.B. Dreyfus, F. Parrenin, B. Lemieux-Dudon, G. Durand, V. Masson-Delmotte, J. Jouzel, J.-M. Barnola, L. Panno, R. Spahni, A. Tisserand, U. Siegenthaler, and M. Leuenberger
+#       Published_Date_or_Year: 2007-06-21     
+#       Published_Title: Anomalous flow below 2700 m in the EPICA Dome C ice core detected using d18O of atmospheric oxygen measurements
+#       Journal_Name: Climate of the Past
+#       Volume: 3
+#       Edition: 
+#       Issue: 2
+#       Pages: 341-353
+#       DOI: 10.5194/cp-3-341-2007
+#       Online_Resource: http://www.clim-past.net/3/341/2007/cp-3-341-2007.html
+#       Full_Citation: 
+#       Abstract: While there are no indications of mixing back to 800 000 years in the EPICA Dome C ice core record, comparison with marine sediment records shows significant differences in the timing and duration of events prior to stage 11 (~430 ka, thousands of years before 1950). A relationship between the isotopic composition of atmospheric oxygen (d18O of O2, noted d18Oatm) and daily northern hemisphere summer insolation has been observed for the youngest four climate cycles. Here we use this relationship with new d18O of O2 measurements to show that anomalous flow in the bottom 500 m of the core distorts the duration of events by up to a factor of 2. By tuning d18Oatm to orbital precession we derive a corrected thinning function and present a revised age scale for the interval corresponding to Marine Isotope Stages 11-20 in the EPICA Dome C ice core. Uncertainty in the phasing of d18Oatm with respect to insolation variations in the precession band limits the accuracy of this new agescale to ±6 kyr (thousand of years). The previously reported ~30 kyr duration of interglacial stage 11 is unchanged. In contrast, the duration of stage 15.1 is reduced by a factor of 2, from 31 to 16 kyr.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: European Union Seventh Framework programme (FP7/2007-2013) 
+#       Grant: 243908
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: French ANBR CITRONNIER
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: EPICA Dome C
+#       Location: Antarctica
+#	Country:  
+#	Northernmost_Latitude: -75.1
+# 	Southernmost_Latitude: -75.1 
+# 	Easternmost_Longitude: 123.4
+# 	Westernmost_Longitude: 123.4 
+# 	Elevation: 3240 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: EDC2013d18Oatm
+#	Earliest_Year: 152470
+#	Most_Recent_Year: 1380
+#	Time_Unit: Cal Year BP
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+# 
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+# Termination I d18Oair data 134.5 to 780.2m.   Termination II d18Oair data 1388.77 to 1870.02
+# 
+## depth_m	depth, , , m, , , , ,N
+## d18Oair	delta 18O, air, , per mil, , , , ,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:  
+
+depth_m	d18Oair
+134.5	0.250
+146.05	0.117
+157.6	0.029
+168.05	-0.010
+189.5	-0.026
+201.05	-0.040
+212.05	-0.041
+244.5	-0.098
+256.05	-0.140
+268.15	-0.160
+278.05	-0.279
+287.95	-0.291
+299.5	-0.145
+311.05	-0.186
+333.05	-0.072
+345.925	-0.102
+355.6	-0.032
+362.75	0.024
+376.225	0.187
+384.15	0.324
+389.425	0.268
+395.42	0.386
+400.425	0.427
+406.275	0.492
+411.675	0.541
+417.425	0.582
+422.685	0.633
+428.025	0.635
+433.475	0.642
+438.995	0.688
+447.855	0.767
+449.925	0.802
+453.395	0.844
+455.475	0.862
+461.425	0.963
+468.825	1.058
+470.555	1.039
+474.298	1.062
+477.925	1.092
+481.225	1.088
+483.425	1.080
+488.375	1.104
+490.895	1.100
+493.975	1.105
+498.445	1.081
+499.475	1.049
+503.015	1.035
+510.425	1.012
+516.535	1.021
+521.425	0.933
+524.315	0.906
+526.505	0.952
+532.375	0.954
+533.062	0.987
+537.425	0.940
+545.145	0.940
+547.825	0.970
+549.085	0.999
+557.673	0.998
+558.945	0.953
+561.625	0.965
+564.375	0.930
+573.295	0.892
+577.715	0.899
+585.5	0.914
+596.5	0.845
+602	0.809
+607.5	0.795
+613	0.711
+618.5	0.729
+629.5	0.680
+635	0.682
+640.5	0.686
+643.8	0.653
+651.5	0.595
+655.9	0.607
+668	0.455
+679	0.531
+690	0.520
+717.5	0.530
+734	0.410
+747.2	0.439
+750.5	0.447
+754.9	0.559
+767	0.595
+772.5	0.563
+780.2	0.489
+1388.77	0.056
+1394.27	-0.031
+1399.77	-0.042
+1405.27	0.038
+1407.47	0.108
+1408.02	-0.052
+1410.77	-0.010
+1413.52	-0.123
+1416.27	0.002
+1419.02	-0.015
+1421.77	-0.106
+1424.52	0.021
+1427.27	0.098
+1432.77	0.032
+1435.52	-0.023
+1438.27	-0.148
+1441.02	-0.131
+1443.77	-0.126
+1446.52	0.028
+1449.27	-0.062
+1452.02	-0.008
+1454.77	0.092
+1460.27	0.077
+1463.02	0.360
+1465.77	0.393
+1471.27	0.547
+1474.02	0.525
+1476.77	0.623
+1479.52	0.523
+1482.27	0.525
+1490.52	0.523
+1493.27	0.527
+1496.02	0.581
+1498.77	0.630
+1501.52	0.590
+1504.27	0.568
+1507.02	0.642
+1509.77	0.683
+1515.27	0.695
+1518.02	0.654
+1520.77	0.651
+1523.52	0.612
+1526.27	0.603
+1529.02	0.633
+1531.77	0.599
+1537.27	0.608
+1542.77	0.523
+1545.52	0.562
+1548.27	0.519
+1551.02	0.546
+1553.77	0.443
+1556.52	0.521
+1559.27	0.397
+1562.02	0.385
+1564.77	0.346
+1573.02	0.294
+1578.52	0.212
+1581.27	0.224
+1584.02	0.180
+1586.77	0.113
+1589.52	0.042
+1592.27	-0.021
+1595.18	-0.069
+1597.77	-0.115
+1600.52	-0.046
+1603.27	-0.169
+1606.02	-0.177
+1608.77	-0.247
+1611.52	-0.238
+1614.27	-0.260
+1617.02	-0.260
+1619.77	-0.235
+1622.68	-0.296
+1625.27	-0.320
+1628.02	-0.311
+1630.77	-0.380
+1633.52	-0.345
+1636.27	-0.394
+1639.02	-0.289
+1641.77	-0.374
+1644.52	-0.348
+1647.27	-0.349
+1650.21	-0.399
+1652.77	-0.385
+1655.52	-0.374
+1658.27	-0.363
+1661.02	-0.304
+1663.77	-0.352
+1669.27	-0.353
+1672.02	-0.272
+1674.77	-0.209
+1677.52	-0.178
+1683.02	-0.044
+1685.77	0.022
+1691.28	0.122
+1694.02	0.173
+1696.77	0.203
+1699.52	0.353
+1702.27	0.394
+1705.53	0.457
+1707.77	0.500
+1710.52	0.588
+1713.27	0.667
+1716.02	0.731
+1718.77	0.865
+1721.52	0.895
+1724.27	0.909
+1727.02	0.956
+1729.77	1.016
+1732.7	0.978
+1735.27	1.036
+1738.02	1.011
+1740.77	0.998
+1743.52	1.078
+1746.27	1.173
+1749.02	1.145
+1751.77	1.084
+1754.52	1.140
+1760.18	1.072
+1762.77	1.053
+1765.52	1.123
+1768.27	1.063
+1773.83	1.017
+1776.52	1.065
+1779.37	0.991
+1782.02	1.044
+1784.77	1.021
+1784.84	0.993
+1787.52	1.003
+1787.58	0.969
+1790.42	0.975
+1793.02	0.978
+1795.83	0.975
+1801.33	0.915
+1804.57	0.934
+1806.83	0.923
+1809.52	0.890
+1812.41	0.852
+1815.08	0.803
+1817.77	0.797
+1817.83	0.776
+1823.33	0.657
+1828.83	0.647
+1834.38	0.644
+1839.77	0.558
+1845.33	0.559
+1867.27	0.728
+1870.02	0.689
+
